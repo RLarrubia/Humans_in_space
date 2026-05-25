@@ -1,0 +1,401 @@
+           HUMAN SPACEFLIGHTOPERATIONS
+            Stefan Neumann
+            German Space Operations Center (GSOC)
+            Deutsches Zentrum für Luft- und Raumfahrt (DLR e.V.), Oberpfaffenhofen
+ 1
+       Agenda
+       1. Introduction
+       2. The Crew – just another subsystem?
+       3. The Flight Control Team
+       4. How to conduct Operations
+       5. The Crew and Mission Control
+       6. Outlook for Artemis Missions
+ 2     Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+              1. Introduction
+ 3           Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+       Opening Remark
+       There is no one concept of Human Spaceflight Operations. But some basic 
+       thoughts can be generalized.
+       ISS operations is based on the heritage of former human spaceflight missions 
+       and such it used as an operations model for this lecture and future crewed 
+       missions.
+ 4     Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+      ▪ Largest space object created by humanity 
+      ▪ Size of about a soccer field and over 400t of mass
+      ▪ Over 100 “visits” by other spacecrafts
+      ▪ More than 1000 hours of extravehicular activities
+      ▪ Start of construction 1998
+      ▪ More than 25 years of continuous human presence
+      ▪ Current plan is to decommission ISS in 2032 
+ 5      Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+       Columbus Module
+      ▪ The Columbus Module is an ESA provided 
+        habitable module of the ISS.
+      ▪ Launched on Feb 7th in 2008 as part of the 
+        Space Shuttle mission STS-122/1E
+      ▪ Designed as a non-stand alone laboratory but 
+        nowadays also provides a sleeping quarter and 
+        an exercise device.
+      ▪ Critical resources (power, external cooling, 
+        habitable atmosphere, attitude control) is 
+        provided by the ISS. 
+ 6     Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+              2. The crew – just another subsystem?
+ 7           Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+         The Crew – just another subsystem?
+         TCS                                                                       Crew
+         (Thermal)                                                                 (Humans, Flight Surgeons, 
+         EPDS                                                                      …)
+         (Power)                                                                   ECLSS
+                                                                                   (Life support)
+         DMS                                                                       Stowage
+         (Data)                                                                    (and waste management)
+         COMMS                                                                     Logistics
+         (Communications)                                                          (Food, cloths,…)
+         MCS                                                                       EVA
+         (Attitude, position, motion)                                              (Extravehicular Activities)
+         Payload
+         (Camera, antenna, telescope, …)
+  8   Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+         The Crew – just another subsystem?
+         Adaptations for crew…
+                                                   TCS: Used to cool equipment and other subsystems
+         TCS                                       ▪  Thermal control of the air, removal of metabolic heat
+         (Thermal)                                 EPDS: Used to power equipment and other subsystems
+         EPDS                                      ▪  Lights, operation of „private devices“, presence of power in 
+         (Power)                                      an O2 enriched atmosphere is a fire hazard
+                                                   DMS/COMMS: Used for TM and TC operations
+         DMS                                       ▪  Crew can also command the station and see the telemetry via a 
+         (Data)                                       dedicated laptop, four voice channels for verbal 
+         COMMS                                        communications with the crew, several video channels to be 
+                                                      able to observe crew / science activities or to provide external 
+         (Communications)                             views
+         MCS                                       MCS
+         (Attitude, position, motion)              ▪ Thrusters, gyros, GPS, fuel is re-supplied by other 
+                                                     space crafts
+         Payload                                   Payload
+         (Camera, antenna, telescope, …)           ▪ Exchange of payloads, Human as science subjects
+  9   Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+         A human life is of inestimable value
+         Crew                                   Everybody is trained to the hierarchy CREW – VEHICLE – MISSION 
+         (Humans …)                             A seat in rescue vehicles (Soyuz / Dragon) is guaranteed for any 
+         ECLSS                                  crew member at any time.
+         (Life support)                         Extensive emergency drills conducted regularly between crew and 
+                                                ground.
+         Stowage                                Flight Surgeon and Psychologist are taking care of the crew, private 
+         (and waste)                            conferences scheduled regularly
+         Logistics                              Medical equipment available on board
+                                                During development phase attempt to change all designs in a way 
+         (Food, cloths, …)                      which minimizes the risk. If this is not possible, „operational hazard 
+         EVA                                    control“ mechanisms have to be implemented.
+         (being „outside“)                      Daily Exercises: Human body degrades in space. Countermeasures 
+                                                are required
+        Payload
+        (Camera, antenna, telescope, …)
+ 10   Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+         Additional Subsystems  
+                                                   Air temperature and humidity are controlled (interface with 
+         Crew                                      TCS). Filters are removing particles. Air is actively 
+                                                   circulated between (intermodule) and inside each 
+         (Humans …)                                (intramodule) module. Optical smoke sensors integrated in 
+         ECLSS                                     the air ducts, station wide alarm system and emergency 
+         (Life support)                            response equipment. Water Recovery & Management 
+         Stowage                                   (WRM) using dedicated racks (e.g. Life Support Rack).
+         (and waste)
+                                                   All items (tools, spares, consumables, …) used on board 
+         Logistics                                 have to be stored. Waste removal by putting trash into a 
+                                                   supply spacecraft and burn it in the upper atmosphere.
+         (Food, cloths, …)
+         EVA                                       The Extravehicular Mobility Unit (EMU) has to be a small, 
+         (being „outside“)                         (almost) independent spacecraft.
+         Payload
+         (samples, hardware, …)                    Various set of science activities with crew as science 
+ 11                                                subject itself or crew to perform activities. 
+      Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+              3. The Flight Control Team
+ 12          Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+         Col-CC is part of an international ISS ops network
+                                                                                         Tsukuba
+ 13      Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+       The European Flight Control “System”
+ 14    Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+        Columbus Control Center: 
+        Responsible for system, payload and ground infrastructure
+        Responsibilities
+        ▪ Vehicle Subsystem 
+          Control: TM&TC 
+          operations, 
+          TM analysis, planning
+        ▪ Mission Management
+        ▪ Coordination of all 
+          European science 
+          experiments 
+        ▪ Operation of the 
+          European ground 
+          communication network 
+          as a whole
+        ▪ Coordination with 
+          NASA Operations
+ 15   Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+        Generic Flight Control Team Setup
+      ▪ Flight Director is ultimately 
+        responsible for operations.
+      ▪ A team of Flight Controllers is in 
+        charge of execution/support of 
+        operations.
+      ▪ Subsystems are mirrored into Flight 
+        Control Positions.
+      ▪ Other operational teams supporting                                                       Flight 
+        operations (e.g. ground controllers,                                                    Control 
+        on-line engineering support, remote                                                      Team
+        science centers).                                                                  Operati    Offline-
+      ▪ Backrooms, engineers and other                                                      onal      suppor
+        teams provide off-line support.                                                     teams        t
+ 16     Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+         NASA ISS Control Center – The Big Team
+                                ISS FD          CAPCOM            OPSPLAN                EVA
+                             Flight Director                        Planner              EVA
+    Console Staffing
+           24/7                 ETHOS               CIO              Pluto             TOPO
+                              ECLSS, iTCS           ISO           Station LAN         Trajectory
+       Crew working              ADCO            CRONUS              BME           PAO/VVO/RIO
+            day                GNC, MCS         C&T, C&DH                             Interfaces
+        As needed              SPARTAN              GC               OSO               ROBO
+                               EPS, eTCS      Ground Systems      Struc&Mech          Robotics
+ 17      Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+        ESA ISS Control Center – COL-CC
+                                                                                                                 Based
+                                                                                                               at COL-CC
+                                                                                                               Not based
+                                                                                                               at COL-CC
+                                                               COSMO
+                        STRATOS                          Struc&Mech, IFM, CSS
+                        C&DH, C&T,                          based in Turino
+                     ECLSS, EPS, TCS
+                                                                                                   COL-EST
+                   EUROCOM                                                 COMET                     PASO
+                    „Capcom“                  COL FD                        Planner
+                 based in Cologne           Flight Director
+                                                                                                GC
+                                                                                          Ground Systems
+ 18     Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+              4. How to conduct operations
+ 19          Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+ 20    Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+ 21    Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+ 22    Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+ 23    Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+        ISS operational concept
+    ▪ “Flight Rules” define how to conduct ISS operations and provides the technical framework.
+    ▪ Flight Rule B1-3 defines mission priorities: 1. Crew, 2. Vehicle, 3. Mission.
+    ▪ Activities are executed according to the FRs and agreed on-board plans and procedures.
+    ▪ Flight Rules documents pre-agreed decisions for off-nominal situations.
+ 24     Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+       Ground Payload Operations
+       ▪ ISS provides internal and external facilities for 
+         science operations without crew involvement.
+       ▪ Facilities are purely controlled by ground teams.
+       ▪ Astronauts could be involved during initial 
+         installation, science sample swaps and 
+         maintenance activities.
+ 25    Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+       Operational Procedures
+        ▪ For all activities a dedicated step-
+          by-step procedure is provided.
+        ▪ Procedure development follows a 
+          strict workflow involving various 
+          groups (Safety, Engineering, 
+          Operation Teams, Astronaut 
+          Representatives, etc).
+        ▪ Procedures follows a standardized
+          nomenclature to ease execution.
+ 26    Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+       Stowage
+      ▪ Dedicated stowage activities are planned to un-
+        /load docked spacecrafts.
+      ▪ Choreography is developed by ground teams and 
+        optimized for on-orbit execution.
+      ▪ All items on the ISS have labels and barcodes as 
+        identifier and are tracked within a dedicated 
+        database with the current on-board location.
+ 27    Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+               Handling off-nominal situations
+            3 different categories of alarms on the ISS:
+            -   Emergency (Fire, Depress, Toxic Atmosphere)
+                    -    Requires immediate action from ground and crew
+            -   Warning
+                    -    Actions requires within 90min
+                    -    If no actions are taken, it might create a crew safety issue or hardware 
+                         damage.
+            -   Cautions
+                    -    No immediate action required
+                    -    Mostly loss of functional redundancy
+                            ➢ Automatic Failure Detection and Isolation Recovery (FDIR) is executed by the on-board software.
+                            ➢ Situations have pre-agreed actions to safe crew and system.
+                            ➢ Ground support is required for recovery, supporting crew and failure investigation.
+  28           Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+        Decision making in off-nominal cases
+        ▪ ISS Commander:
+            ▪ Directs on-board operations under the direction of the lead MCC (usually MCC-H).
+            ▪ If unable to communicate with MCC or if specifically directed, is authorized to take any 
+              action necessary for safety.
+        ▪ Flight director: 
+            ▪ Takes real time operational decisions based on guidelines, policy and current situation.
+            ▪ Responsible for providing recommendations to Mission Management Team (MMT) when 
+              operating outside of policy.
+        ▪ Mission Management Team:
+            ▪ Responsible for policy decisions not covered by operational documents (like Flight 
+              Rules).
+            ▪ Should be consulted when operations outside of policy are required.
+ 29     Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+              5. Crew and Mission Control
+ 30          Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+             Ways of Communications
+                                                                                                                  ▪ Main communication path for ISS is 
+                                                                                                                      via NASA TDRS satellite system.
+                                                                                                                  ▪ Two data channels with different 
+                                                                                                                      bandwidth (S- and Ku-Band)
+                                                DLR Ground                                                        ▪ 4 voice loops for spoken 
+                                               Station Weilheim                                                       communication, 9 video channels 
+                                                                                                                      and a high bandwidth data channel
+                                                                                                                  ▪ Since 2021 a Ka-Antenna was 
+                                                                                                                      installed outside of Columbus using 
+                                                                                                                      the EDRS satellite system for an 
+                                                                                                                      additional up- and downlink path.
+                                                                                                                  ▪ VHF/amateur radio available for 
+                                                                                                                      emergency or for public outreach.
+ 31          Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+       Voice and Video
+                               Voice traffic is kept to a minimum 
+                               (two „sync points“ per day).
+                                         Several video cameras onboard
+ 32    Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+       Timeline Preparation
+    ▪ Preparation of the Timeline starts several month prior day of execution.
+    ▪ Iterative and integrated effort of all ISS partners
+    ▪ All activities have certain constraints (time-range constraint, hardware 
+     constraints, resource constraints, …)
+ 33    Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+        „OPTIMIS VIEWER“ – Schedule for Astronauts and 
+        Ground Teams
+                                                                                     Key Features:
+                                                                                     1. Day and Time
+                                                                                     2. Crew activities
+                                                                                     3. Ground activities
+                                                                                     4. Satellite Communication Availability
+                                                                                     5. Procedure Link
+                                                                                     6. Short Crew Feedback / Note
+ 34     Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+       Weekend activities
+       - Monday to Friday are nominal working days
+       - Low amount of planned activities over the 
+         weekend
+       - Housekeeping is done on the weekend
+       - Conferences with families and friends
+       - Personal activities 
+ 35    Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+       Planning Constraints to protect Crew Health / Well-being
+       ▪ Scheduling of 2.5 hours of sport each 
+         day.
+       ▪ On working days 6.5 hours of planned 
+         work.
+       ▪ If possible, midday break should be 
+         aligned to have shared lunch break.
+       ▪ Working time needs to be tracked for 
+         compensation on other days.
+       ▪ Private Conferences with families, 
+         friends, surgeons
+       ▪ Respecting personal crew preferences 
+         (exercise in the morning/evening, cardio 
+         before/after strength training, video 
+         policy, …)
+ 36  Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+       ESA Crew on the ISS: What is difference for us?
+      ▪ An ESA astronaut does not work only for 
+        ESA. 
+      ▪ Closer contact to crew already prior 
+        mission start. 
+      ▪ Weekly crew conference with the 
+        astronaut.
+      ▪ More European public outreach events 
+        and press events at the control center.
+      ▪ National contributed Payloads: Payloads 
+        financed by national space agencies for 
+        dedicated astronaut mission.
+ 37    Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+       Commercialization
+       ▪ More and more commercial 
+         entities are part of ISS 
+         operations.
+       ▪ External Platform Bartolomeo has 
+         been installed in 2020.
+       ▪ Smaller Experiment Cubes 
+         (picture low right) for experiments 
+         inside the ICE Cubes Facility.
+       ▪ Commercialization changes the 
+         requirements for Operations as 
+         more flexibility is required.
+ 38    Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+       Private Astronaut Missions (PAM)
+       ▪ PAMs are occurring more frequently.
+       ▪ Crew can be „Space Visitors“ but 
+         also institutional astronauts.
+       ▪ Two ESA astronauts flew with PAM 
+         missions (Axiom 3 & 4).
+       ▪ High intense, short mission with short 
+         preparation time (for crew and 
+         ground).
+       ▪ PAM are an opportunity for smaller 
+         countries to fly their astronauts.
+ 39    Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+              6. Outlook for Artemis Mission
+ 40          Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+        Outlook for Artemis Missions
+        ▪ Lunar Gateway was a planned non-permanently crewed space station built by NASA, ESA, 
+          JAXA, CSA & MBRSC.
+        ▪ Operations for ESA´s Gateway operations has been delegated to COL-CC.
+        ▪ NASA restructured its lunar architecture with a focus on direct lunar surface operations 
+          including a lunar base and a pause of Lunar Gateway in its current form.
+            ➢Evolution from COL-CC to Human Exploration Control Center (HECC) to continue 
+              human spaceflight and exploration operations from Munich.
+ 41     Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+        Comparison of Operations
+                       ISS operations                                 Artemis Missions
+               Continuous crewed operations               Campaign mode with uncrewed timespans
+           Console staffing: 24/7 around the year                24/7 during crewed missions,
+                                                         low console staffing profile outside of crewed 
+                                                                           missions
+            Continuous planning cycle divided in          Structured by missions of about 2-4 weeks
+                   increments of 6 months                       followed by uncrewed phased
+               Main goal is science operations                Main goal is excursion to the Moon
+                   High satellite coverage               Dependent on mission phase. High coverage 
+                                                          during crewed phase, low coverage during 
+                                                                       uncrewed phase
+              Low level of on-board automation           High level of on-board automation especially 
+                                                                    for uncrewed timespan.
+ 42     Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+      Thanks for your attention!
+                                                       Pizza day on the ISS
+ 43
+              Questions?
+ 44          Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+       Literature
+       1.  FLIGHT – My life in Mission Control, Ch. Kraft, Plume (2002).
+       2.  Handbuch der Raumfahrttechnik, W. Ley, K. Wittmann, W. Hallmann (Hrg.), 
+           Carl Hanser Verlag, 5. Auflage (2019).
+       3.  Wie Columbus fliegen lernte, T. Uhlig, A. Nitsch, J. Kehr, Hanser Fachbuch, 1. 
+           Auflage (2010).
+       4.  First experience with realtime operations of the Columbus Module, D. Sabath, 
+           D. Schulze-Varnholt, 59th International Astronautical Congress, IAC-08-B3.3.3, 
+           Glasgow (2008). 
+       5.  Spacecraft Operations, T. Uhlig, F. Sellmaier, M. Schmidhuber, 2nd Edition 
+           Springer (2022).
+ 45    Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann
+        Contact
+        ▪ Internet:
+            ▪ http://www.dlr.de/rb/ 
+            ▪ http://www.col-cc.de/
+        ▪ Email:
+            ▪ Stefan.Neumann@dlr.de
+            ▪ Dieter.Sabath@dlr.de
+ 46     Vorlesung "Human Spaceflight Operations", TU München, Stefan Neumann

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="560" viewBox="0 0 1120 560" role="img" aria-labelledby="title desc">
+  <title id="title">Crewed spacecraft operations study map</title>
+  <desc id="desc">A visual summary of human spaceflight operations: crew, vehicle, mission, flight control team, procedures, communications, planning and Artemis operations.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f7f9fb; }
+      .card { fill: #ffffff; stroke: #cbd5df; stroke-width: 2; rx: 12; }
+      .title { font: 700 34px Arial, sans-serif; fill: #17202c; }
+      .subtitle { font: 700 22px Arial, sans-serif; fill: #17202c; }
+      .text { font: 17px Arial, sans-serif; fill: #293647; }
+      .small { font: 14px Arial, sans-serif; fill: #506073; }
+      .tag { fill: #e9f0f7; stroke: #cbd5df; stroke-width: 1.5; rx: 12; }
+      .tagText { font: 700 14px Arial, sans-serif; fill: #293647; }
+      .station { fill: #d7dde7; stroke: #6d7b8d; stroke-width: 4; }
+      .solar { fill: #406fae; stroke: #26486f; stroke-width: 3; }
+      .crew { fill: #f0b84d; stroke: #9a6817; stroke-width: 3; }
+      .arrow { stroke: #4f647a; stroke-width: 4; fill: none; marker-end: url(#arrowHead); }
+    </style>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#4f647a"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1120" height="560"/>
+  <text class="title" x="48" y="58">Lecture 10 Study Map: Crewed Spacecraft Operations</text>
+  <text class="small" x="50" y="88">Human spaceflight operations organize people, vehicles, procedures and ground teams around safety.</text>
+
+  <rect class="card" x="60" y="125" width="315" height="160"/>
+  <text class="subtitle" x="90" y="164">Priority Rule</text>
+  <circle class="crew" cx="115" cy="217" r="24"/>
+  <rect class="station" x="170" y="197" width="62" height="38" rx="6"/>
+  <rect class="solar" x="137" y="206" width="28" height="20"/>
+  <rect class="solar" x="237" y="206" width="28" height="20"/>
+  <text class="text" x="285" y="205">1 Crew</text>
+  <text class="text" x="285" y="230">2 Vehicle</text>
+  <text class="text" x="285" y="255">3 Mission</text>
+
+  <rect class="card" x="405" y="125" width="315" height="160"/>
+  <text class="subtitle" x="435" y="164">Flight Control Team</text>
+  <text class="text" x="435" y="199">Flight Director leads real-time ops.</text>
+  <text class="small" x="435" y="226">Controllers mirror subsystems:</text>
+  <rect class="tag" x="435" y="244" width="72" height="30"/>
+  <text class="tagText" x="452" y="264">ECLSS</text>
+  <rect class="tag" x="517" y="244" width="58" height="30"/>
+  <text class="tagText" x="534" y="264">EPS</text>
+  <rect class="tag" x="585" y="244" width="55" height="30"/>
+  <text class="tagText" x="601" y="264">TCS</text>
+  <rect class="tag" x="650" y="244" width="48" height="30"/>
+  <text class="tagText" x="662" y="264">C&amp;T</text>
+
+  <rect class="card" x="750" y="125" width="315" height="160"/>
+  <text class="subtitle" x="780" y="164">Conduct Operations</text>
+  <text class="text" x="780" y="199">Flight Rules + procedures + timeline</text>
+  <text class="small" x="780" y="226">Alarms: Emergency, Warning, Caution</text>
+  <text class="small" x="780" y="252">FDIR and pre-agreed recovery actions</text>
+
+  <path class="arrow" d="M 375 205 C 390 205, 390 205, 405 205"/>
+  <path class="arrow" d="M 720 205 C 735 205, 735 205, 750 205"/>
+
+  <rect class="card" x="60" y="330" width="315" height="160"/>
+  <text class="subtitle" x="90" y="369">Crew as Subsystem</text>
+  <text class="small" x="90" y="402">Crew needs ECLSS, food, exercise,</text>
+  <text class="small" x="90" y="424">medical care, psychology, rescue seats,</text>
+  <text class="small" x="90" y="446">EVA suits and stowage/logistics.</text>
+
+  <rect class="card" x="405" y="330" width="315" height="160"/>
+  <text class="subtitle" x="435" y="369">Crew and MCC</text>
+  <text class="small" x="435" y="402">TDRS, S/Ku/Ka-band, voice loops,</text>
+  <text class="small" x="435" y="424">video channels and daily sync points.</text>
+  <text class="small" x="435" y="446">Timeline protects workload and health.</text>
+
+  <rect class="card" x="750" y="330" width="315" height="160"/>
+  <text class="subtitle" x="780" y="369">Artemis Outlook</text>
+  <text class="small" x="780" y="402">ISS: continuous 24/7 operations.</text>
+  <text class="small" x="780" y="424">Artemis: campaign mode, more autonomy,</text>
+  <text class="small" x="780" y="446">crewed and uncrewed mission phases.</text>
+
+  <rect x="210" y="510" width="700" height="34" rx="17" fill="#23364a"/>
+  <text x="311" y="533" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Memory line: crew first, vehicle second, mission third.</text>
+</svg>

@@ -1,0 +1,549 @@
+     Planetary protection, astrobiology and 
+     the search for extraterrestrial life
+        Petra  Rettberg
+        DLR, Institute for Aerospace Medicine, Cologne, Germany
+        petra.Rettberg@dlr.de
+           Planetary protection and astrobiology
+           •   Astrobiology is the study of the origin, 
+               evolution and distribution of life in the 
+               universe.
+           •   The search for signs of extraterrestrial 
+               life is one major driver for solar system 
+               exploration. 
+           •   A multidiciplinary approach!e search 
+               for extraterrestrial life is an 
+               important driver for the exploration 
+               of our solar system.
+           The search for extraterrestrial life is an 
+           important driver for the exploration of 
+           our solar system.
+  2
+          Astrobiology
+          •   How and when did life on Earth begin? 
+          •   What were the environmental conditions at that time 
+              on Earth?
+          •   Are there other habitable environments in our solar 
+              system and beyond?
+          •   Are other habitable environments inhabited? 
+          •   …
+          →Is the emergence of life the consequence of an 
+              extraordinary set of evolutionary processes or is life a 
+              general principle? 
+  3
+      What is life?
+ 4
+        Requirements for life as we know it
+         •  Liquid water
+         •  Chemical elements 
+            (CHNOPS + others)
+                                                                    From:The Planetary Society
+         •  Energy source 
+            (chemical or light)
+ 5
+      Habitability
+      • Habitability is the measure of a planet's or moon’s 
+        potential to develop and maintain environments 
+        hospitable to life.
+      • Environments do not need to contain life to be 
+        considered habitable.
+      • Understanding planetary habitability is an 
+        extrapolation of the conditions on Earth, as this is 
+        the only planet known to support life.
+      • On the early Earth, ~ 3.4 billion years ago, the 
+        environmental conditions were quite different from 
+        the actual conditions.
+ 6
+          Planets and moons of astrobiological interest in our solar system 
+            •   Prebiotic chemistry
+            •   Search for past or present signs of extraterrestrial life
+                                                 Earth, Mars, Europa, Enceladus, Titan …
+  7
+         Present Mars
+           •  Is there extinct or extant Martian life?
+                   solar UV radiation (≥ 200 nm), no shielding by ozone layer 
+                   cosmic ionizing radiation, no shielding by magnetic field
+                    
+                    
+                                                                                                                   surface
+                   anoxic conditions
+                   low pressure (~ 7 - 10 hPa)                    desiccation                                      p, T
+                   low average temperature (~ -65°C)
+                                                                                                                 subsurface
+  8
+          Present Mars
+          •   Water ice at the poles
+          •   Frozen water in the subsurface
+          •   Temporary brines on the surface?
+          •   Liquid water in the subsurface?
+                             This image combining orbital imagery with 3-D 
+                            modeling shows flows that appear in spring and 
+                            summer on a slope inside Mars' Newton crater.
+                            (Image: © NASA/JPL-Caltech/Univ. of Arizona)
+  9
+       NASA ESA Mars Sample Return progam
+                                                                    Mars Ascent 
+                                                                      Vehicle
+                                    Earth Return 
+         Ingenuity                     Orbiter
+                                                                                    Sample 
+                                                                                    Retrieval 
+                                                                                    Lander
+                       Perseverance
+ 1010
+       Mars samples collected by the Perseverance rover
+       Mars Rock Samples - NASA Science
+        at 1574 sols (July 24, 2025)
+ 1111            By Courtesy NASA/JPL-Caltech, Attribution, https://commons.wikimedia.org/w/index.php?curid=170682645
+       A potential biosignature in one of the Perseverance samples
+       A potential biosignature is a substance or structure that might have a biological origin, but requires more 
+       data or further study before a conclusion can be reached about the absence or presence of life. 
+                                                                 „Leopard and poppy seeds“ 
+                                                                 spots on a reddish rock 
+                                                                 nicknamed „Cheyava Falls“ in 
+                                                                 Mars‘ Jezero Crater indicate 
+                                                                 that the chemical reactions in 
+                                                                 this rock could have supported 
+                                                                 microbial life, other 
+                                                                 explanations are being 
+                                                                 considered.
+                                                                 Sample M2020-1215-28 
+                                                                 Sapphire Canyon
+                    Credit: NASA/JPL-Caltech/MSSS
+ 1212
+      A potential biosignature in one of the Perseverance samples from 
+      NASA’s Mars 2020 mission
+                                                332 | Nature | Vol 645 | 11 September 2025
+ 1313
+      A variety of organic molecules in one of the Curiosity samples from 
+      NASA's Mars Science Laboratory mission
+ 1414
+      NASA ESA Mars Sample Return progam
+ 1515
+      Robotic Mars missions – ExoMars (ESA)
+           ESA‘s ExoMars 2016 mission with     ESA‘s ExoMars 2028 mission with 
+               the Trace Gas orbiter              the rover Rosalind Franklin
+                                   Credit: ESA
+ 16
+      Martian Moons eXploration mission – MMX, JAXA, Japan
+      Investigation of Phobos and Deimos
+      Sample return from Phobos
+      Launch 2026, tbc
+ 17
+      Mars sample return mission – Tianwen-3 from CNSA, China
+      Launch in 2028, tbc, Mars samples on Earth in 2031, tbc
+                               Tainwen-3 Mars Sample Return (China) 
+                            Hou et. al. (2025). https://doi.org/10.1038/s41550-025-02572-0
+ 18
+          Mars sample return mission – Tianwen-3 from CNSA, China
+            Schematic overview of China’s MSR mission 
+                                                                                                •   Lander with drilling and 
+                                                                                                    scooping payloads for 
+                                                                                                    biosignature analysis
+                                                                                                •   Drone for rock sampling at 
+                                                                                                    remote locations 
+                                                                                                •   All samples ascend to the 
+                                                                                                    orbiter. 
+                                                                                                Hou et. al. (2025). 
+                                                                                                https://doi.org/10.1038/s41550-025-02572-0
+ 19
+      Mars sample return mission – Tianwen-3 from CNSA, China
+             Image credit: CCTV/Inside Outer Space
+                                                   Image credit: EPA-EFE/CNSA
+ 20
+       Icy moons 
+                          Europa                               Enceladus
+ 21
+          JUICE (ESA)
+          JUpiter ICy moons Explorer
+          •   launch in 2023
+          •   arrival at Jupiter in 2029 
+          →observations of the giant gaseous planet Jupiter 
+              and three of its largest moons, Ganymede, 
+              Callisto and Europa.
+                                                                                                          Credit: ESA
+ 22
+          Europa Clipper (NASA)
+         •   Launch October 2024
+         •   Arrival at Jupiter in 2030
+         •   Nearly 50 flybys of Europa
+         •   “Europa Clipper’s main science goal is 
+             to determine whether there are places 
+             below the surface of Jupiter’s icy moon, 
+             Europa, that could support life.” 
+                                                                                              Credit: NASA/JPL-Caltech
+ 23
+       Several international space missions are exploring the solar system 
+       to search for signs of life. 
+        •  How can we identify unambiguously extraterrestrial signs of life?
+        •  How can we avoid the unintentional contamination of other planets and moons of 
+           astrobiological interest?
+            → Planetary protection!
+ 24
+       Challenges in the identification of extraterrestrial life
+                                      Measurement      Measurement 
+                                      with negative     with positve 
+                                         results          results
+                                                                             Contamination
+                     No signs of life     True            False 
+                       in a sample       negative        positive
+                      Signs of life in                     True            Planetary protection
+                        a sample         False           positive
+                                        negative
+             Wrong approach or 
+               lack of sensitivity
+ 2525
+            Legal framework for planetary protection
+            •   The legal basis for planetary protection was 
+                established in Article IX of the United Nations 
+                Treaty on Principles Governing the Activities of 
+                States in the Exploration and Use of Outer 
+                Space, including the Moon and other Celestial 
+                Bodies (Outer Space Treaty, 1967).
+            •   COSPAR (Committee of Space Research) 
+                maintains the Policy on Planetary Protection* to 
+                guide compliance with the Outer Space Treaty for 
+                the reference of spacefaring nations as an 
+                international voluntary and non-legally binding 
+                standard for the avoidance of organic-constituent 
+                and biological contamination introduced by 
+                planetary missions.
+                                                                                                     As of October 2025, 118 countries are parties to the 
+                *see website of COSPAR‘s Panel on Planetary Protection,                            treaty, while another 20 have signed the treaty but have 
+                COSPAR Policy on Planetary Protection, 7 November 2025                                            not completed ratification.
+ 2626
+           What planetary protection is not!
+            •   It is not about asteroid defense.
+                  →Covered in the Near Earth Objects (NEO) and                                                                   Fireball 
+                                                                                                                                 exploded above 
+                      Space Situational  Awareness (SSA) programs                                                                Chelyabinsk city 
+                                                                                                                                 in the morning 
+                                                                                                                                 of 15 Feb. 2013
+            •   It is not about space debris.
+                  →Covered in the Space Surveillance and Tracking 
+                      (SST), space debris, and sustainability programs
+                                                                                                                               Space Debris Image: ESA
+            •   It is not about cultural or natural world heritage.
+                  →Covered by UNESCO based on a convention (for 
+                                                                                                                                      Credit: 
+                      Earth) and the COSPAR Panel on Exploration                                                                      NASA/Mars 
+                                                                                                                                      Exploration 
+                      (for space)                                                                                                     Rover
+ 2727
+         Rationales for COSPAR‘s planetary protection policy and 
+         associated requirements
+         •  The conduct of scientific investigations of possible 
+            extraterrestrial life forms, precursors, and 
+            remnants must not be jeopardized (forward 
+            planetary protection).
+         •  The Earth must be protected from the potential 
+            hazard posed by extraterrestrial matter carried by 
+            a spacecraft returning from an interplanetary 
+            mission (backward planetary protection).
+                                                                       Protect Earth!
+                                                                                                        Protect Mars and 
+                                                                                                         the icy moons!
+ 28
+          Planetary protection categories
+          •   Five different planetary protection categories, in some cases with 
+              subcategories, have been defined. 
+          •   They reflect the level of interest and concern that contamination can 
+              compromise actual and future studies on prebiotic chemistry and the 
+              origin of life.
+          •   The categories and associated requirements depend on the target body 
+              (e.g. Moon, Mars, Europa, asteroids …), on the mission type (flyby, 
+              orbiter, lander) and the mission goal (e.g. for Mars - with or without life 
+              detection experiments).
+                                                                                                                       Fotos: ESA/NASA
+ 29
+      Planetary protection categories
+                                                              Fotos: ESA/NASA
+ 30
+          Planetary protection and organic contamination control
+          •   Organic contamination in the context of planetary protection can be considered as any 
+              terrestrial organic matter that could be mistaken for, or whose signal could overwhelm and 
+              mask, an extraterrestrial organic signature.
+          •   Specific requirements for organic contamination do not exist so far, although the COSPAR 
+              PPP recommends an organic inventory. 
+ 31
+     Typical PP requirements for category III orbiters (e.g. Mars)
+       • Cleanroom assembly (ISO class 8 
+         or better)
+        Limitation on crash probability, OR
+        Bioburden reduction
+        Localisation of eventual crash impact
+        Inventory of organic materials
+                                                       Foto: ESA
+ 32
+      Typical PP requirements for category IV landers (e.g. Mars)
+       Category III +
+       Bioburden reduction / active sterilization
+        (levels depending on planet, explored
+        regions, astrobiological investigations)
+       Microbiological controls
+       Cleanroom assembly with bioclean-
+        liness controls
+       Lander recontamination prevention
+        (bioshield, HEPA filter)
+                                                   Credit:NASA/JPL-Caltech/MSSS 
+ 33
+      PP for lander missions to Mars – quantitative bioburden approach
+      Maximal allowed bioburden for a Mars lander
+      Category IVa 
+         ≤ 300 bacterial spores*/m2  AND
+               5
+         ≤ 3.0 x 10 bacterial spores/entire 
+         spacecraft/lander
+      Category IVb and IVc 
+         < 30 bacterial spores*/exposed surface
+                                                  Bacillus pumilus spores
+      *  All bioburden constraints are defined with respect to the number of aerobic microorganisms that survive a 
+      heat shock of 80°C for 15 minutes (hereinafter “spores”) and are cultured on TSA or R2A at 32°C for 72 
+      hours, i.e. the PP standard assay. 
+ 3434
+       What to do and how?
+        
+       For ESA Missions - ECSS standards
+       The European Cooperation for Space Standardization (ECSS) is an 
+       initiative established to develop a coherent, single set of user-friendly 
+       standards for use in all European space activities.
+       Coordination and harmonisation with other space agencies
+       ECSS-Q-U-ST-20C:  Planetary Protection
+        
+       ECSS-Q-ST-70-55C: Microbial examination of flight hardware and 
+                          cleanrooms 
+       ECSS-Q-ST-70-58C: Bioburden control of cleanrooms
+       ECSS-Q-ST-70-53C: Materials and hardware compatibility tests for 
+                          sterilisation processes
+       ECSS-Q-ST-70-57C: Dry heat bioburden reduction for flight 
+                          hardware
+       ECSS-Q-ST-70-56C: Vapour phase bioburden reduction for flight 
+                          hardware
+ 35
+       Microbial sampling of spacecraft and cleanrooms
+        ECSS-Q-ST-70-55C: Microbial examination of flight hardware 
+        and cleanrooms
+        •  Surface and air sampling and detection of biological 
+           contaminants with swabs, wipes and air samplers, 
+           followed by cultivation for bioburden* determination.
+        •  Surface sampling of biological contaminants by DNA 
+           analysis with swabs and wipes for biodiversity
+           determination.
+         
+        *  Bioburden - quantity of viable microorganisms measured with a specified assay 
+                → How many microbes are there?
+        ** Biodiversity - identification of species of microorganisms measured with specified assays
+                → Which microbes are there?
+ 36
+       How to measure the bioburden on spacecraft and in cleanrooms?
+       Surface sampling with swabs
+                                           For areas up to 25 cm2
+ 37
+      Bioburden analysis with the planetary protection standard assay
+      Enumeration of aerobic mesophilic heat 
+      tolerant spores and vegetative bacteria
+                   Results after 72h of incubation
+ 38
+       How to measure the bioburden on spacecraft and in cleanrooms?
+       Surface sampling with wipes
+       For areas up to 1 m2
+       Analysis in analogy to the swab assays
+ 39
+       Example - the ExoMars missions
+        ExoMars 2016
+         
+        DLR + MedUni Graz:    908 assays (146 swabs, 
+                              631 wipes, 131 air samples)
+        TAS-I:                3236 assays
+        →Dynamics of the cleanroom microbiome from the 
+           first utilisation of the new cleanroom at TAS-I in 
+           Turino until the final assembly of the spacecraft
+         
+        ExoMars Rosalind Franklin 2028
+        DLR + MedUni Graz:    1440 assays 
+                              (until end of 2025)
+         
+ 40
+      Microbial sampling of spacecraft and cleanrooms
+ 41
+       Planetary protection of icy worlds – probabalistic approach
+       For Icy Worlds the calculation of the probability of inadvertent contamination should include a 
+       conservative estimate of poorly known parameters, and address the following factors, at a 
+       minimum:
+       • Bioburden at launch
+       • Cruise survival for contaminating organisms
+       • Organism survival in the radiation environment adjacent to Europa or Enceladus
+       • Probability of landing on Europa or Enceladus
+       • The mechanisms and timescales of transport to a Europan or Enceladan subsurface liquid 
+         water environment
+       • Organism survival and proliferation before, during, and after subsurface transfer 
+       →For planetary protection of Icy Worlds, the only relevant organisms are those with the 
+         potential to contaminate the subsurface oceans and multiply there. 
+ 4242
+          Relevant microorganisms for planetary protection of Icy Worlds
+          •   Relevant species are microorganisms that are able 
+              to survive long periods of desiccation, exposure to 
+              radiation, that are able to replicate at low 
+              temperature under oligotrophic anaerobic conditions 
+              in the presence of salts.
+          •   The cultivation of relevant species in the lab, if 
+              possible at all, can take very long periods of time. 
+          •   This is not compatible with spacecraft assembly, 
+              integration and testing activities on a routine basis 
+              with thousands of assays. 
+            →PPOSS* recommendations: 
+               ... Investigate the desiccation and radiation 
+               resistance of representative isolates from Icy World 
+               analogue environments …
+               *PPOSS supported by the European Commission Horizon 2020                          Rettberg et al., 2019, Astrobiology 19(8):951-974. 
+               programme under Grant Agreement 687373                                                            doi: 10.1089/ast.
+ 4343
+      Survival limits of psychrotolerant microorganisms with relevance 
+      for planetary protection of the icy moons
+       Psychrotolerant microorganisms, bacteria, archaea, fungi, isolated from extreme environments on 
+       Earth such as the Canadian high arctic or spacecraft assembly facilities cleanrooms, were 
+       investigated to understand whether Earth organisms can survive the travel through space and on 
+       the icy moons and might pose a risk for planetary protection.
+                     Zaccaria et al., Philos Trans A Math Phys Eng Sci 12 February 2026; 
+                              https://doi.org/10.1098/rsta.2024.0435
+ 44
+          Planetary protection requirements – ongoing activities
+          •   Development and evaluation of new molecular 
+              methods to complement the cultivation-based standard 
+              assay
+          •   Metagenomics methods for bioburden and biodiversity 
+              analysis to identify relevant viable organisms present in 
+              a cleanroom and on a spacecraft
+          →Input into a probabilistic risk assessment model for 
+              planetary protection
+                − NASA: Multi-Mission Metagenomics Technology Development 
+                    Workshop, January 2022
+                − ESA: Planetary Protection requirements for future exploration 
+                    missions: Assessing metagenomics methods for their inclusion in 
+                    ESA standards, October 2023
+                − NASA ESA Metagenomics in Spaceflight (hybrid), November 19 –
+                    22, 2024
+                − NASA ESA  Metagenomics in Spaceflight No. 2 (hybrid), 
+                    November 2 - 6, 2026
+ 45
+          COSPAR‘s principles and guidelines for human missions to Mars
+           •  The intent of this planetary protection policy is the same whether a mission to Mars is conducted 
+              robotically or with human explorers. 
+           •  Accordingly, planetary protection goals should not be relaxed to accommodate a human mission 
+              to Mars. Rather, they become even more directly relevant to such missions — even if specific 
+              implementation requirements must differ.
+           •  The greater capability of human explorers can contribute to the astrobiological exploration of 
+              Mars only if human-associated contamination is controlled and understood. 
+ 46
+       Planetary protection for human missions to Mars
+                                       Ensure crew health
+           Protect Earth                                                  Protect Mars
+ 4747
+       We are living in a microbial world.
+ 48   Microbiome Introduction — VMI Bootcamp II 1.0 documentation (awbrooks19.github.io)
+       The human microbiome
+       • Many more bacteria and archaea in and on a human 
+         body than own human cells
+       • ~ 150 x more genes
+       • ~5,000 species 
+       • Most microbes are essential. A few can cause harm. 
+       • Up to 1 kg pure microbial material in the gut
+       • Excretion of about ~70 kg bacteria each year
+       • As many microorganisms on the skin as there are 
+         people on Earth
+ 4949
+          Planetary protection for human missions to Mars
+          •   Human spaceflight hardware leaks in nominal and 
+              off-nominal operation (e.g. airlocks, space suits, 
+              pressurised rovers). It will not be possible to work 
+              on Mars within entirely closed systems.
+          •   The introduction of a maintained temperate 
+              terrestrial environment at the Martian surface 
+              affords the opportunity for many more organisms (in 
+              type and quantity) to escape into the Martian 
+              environment. 
+          •   Crew members exploring Mars will inevitably be 
+              exposed to martian materials. 
+ 5050
+                         Planetary protection knowledge gaps 
+                              for human missions to Mars
+          Natural transport of        Technology and              Microbial and 
+               biological              operations for             human health 
+           contamination on              biological                 monitoring
+                 Mars                 contamination 
+                                          control
+        Summary of all workshop results in: Spry et al., 2024, Planetary Protection Knowledge Gap 
+        Closure Enabling Crewed Missions to Mars, ASTROBIOLOGY Volume 24, Number 3, 2024, 
+        DOI: 10.1089/ast.2023.009
+         
+ 51
+           Planetary Protection requirements
+          •   limit the allowed bioburden of a 
+              spacecraft
+          •   have a major impact on mission design
+          •   have a major impact on spacecraft 
+              hardware and payload
+                − material selection, design, assembly 
+                   and integration, testing,
+                   sterilisation strategies
+          •   necessiates documentation, reviews, 
+              management structures
+          •   are implemented since the Viking                                                  Preparing of one the Viking landers 
+              missions (1976)                                                                  for dry heat sterilization, Foto: NASA
+          Further reading
+          •   COSPAR Policy on Planetary Protection,  Space Research Today, no. 224, January 2026, 17-39
+          •   Spry et al. (2024) Planetary Protection Knowledge Gap Closure Enabling Crewed Missions to 
+              Mars, DOI: 10.1089/ast.2023.0092
+          •   Doran et al. (2024) The COSPAR planetary protection policy for missions to Icy Worlds: A review 
+              of history, current scientific knowledge, and future directions, DOI: 10.1016/j.lssr.2024.02.002
+          •   Olsson-Francis et al. (2023) The COSPAR Planetary Protection Policy for robotic missions to 
+              Mars: A review of current scientific knowledge and future perspectives, DOI: 
+              10.1016/j.lssr.2022.12.001
+          •   Zorzano et al. (2023) The COSPAR planetary protection requirements for space missions to 
+              Venus, DOI: 10.1016/j.lssr.2023.02.001
+          •   Rettberg et al. (2019) Biological Contamination Prevention for Outer Solar System Moons of 
+              Astrobiological Interest: What Do We Need to Know? DOI: 10.1089/ast.2018.1996
+          •   COSPAR: The International Planetary Protection Handbook (2019), DOI: 
+              10.1016/j.srt.2019.09.001
+ 5353
+                                                                         Open access
+ 54
+        ESA Planetary Protection Course
+                                                                                 October 2026, Stuttgart, Germany
+           Introduction to Planetary Protection - Fraunhofer IPA                     The course is limited to 24 
+                                                                                           participants. 
+ 55
+         Things to remember!
+         •   Planetary protection is about protecting science and the Earth.
+         •   Planetary protection regulations are based on UN Outer Space Treaty.
+         •   COSPAR maintains a planetary protection policy and associated 
+             requirements to guide compliance with the UN Outer Space Treaty.
+         •   Planetary protection categories and requirements are not cast in 
+             stone and evolve over time as new information becomes available.
+ 56
+     Thank your for your attention!
+          COSPAR PPP - Special regions on Mars
+          •   A Special Region is defined as a region within which terrestrial 
+              organisms are likely to replicate. Any region which is interpreted to 
+              have a high potential for the existence of extant martian life forms is 
+              also defined as a Special Region.
+          •   In the absence of specific information, no Special Regions are 
+              currently identified on the basis of possible martian life forms. If and 
+              when information becomes available on this subject, Special Regions 
+              will be further defined on that basis. 
+          •   Neither robotic systems nor human activities should contaminate 
+              Special Regions on Mars. 
+          •   Any pristine samples or sampling components from any 
+              uncharacterized sites or Special Regions on Mars should be treated 
+              according to current planetary protection Category V, restricted Earth 
+              return, with the proper handling and testing protocols.
+ 58
+      Special regions - environmental conditions for replication
+      Given current understanding, the physical environmental parameters in terms of water activity and 
+      temperature thresholds that must be satisfied at the same time to allow the replication of terrestrial 
+      microorganisms are: 
+      − Lower limit for water activity: 0.5 (includes a margin of ~0.13)
+      − Lower limit for temperature: -28˚C (includes a margin of 10 °C)
+      → Identification of special regions before planning a human mission
+ 59
+      Special regions on Mars
+ 60                                                          From Spry et al., 2024

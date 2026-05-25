@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="540" viewBox="0 0 1100 540" role="img" aria-labelledby="title desc">
+  <title id="title">Lecture 8 Moon and Mars study map</title>
+  <desc id="desc">A compact visual comparison of Moon and Mars environments, resources, missions, and human spaceflight challenges.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f7f8fb; }
+      .card { fill: #ffffff; stroke: #c9d2df; stroke-width: 2; rx: 12; }
+      .moon { fill: #d9dde5; stroke: #8c96a8; stroke-width: 4; }
+      .mars { fill: #c66a42; stroke: #823b28; stroke-width: 4; }
+      .title { font: 700 34px Arial, sans-serif; fill: #1d2430; }
+      .subtitle { font: 600 22px Arial, sans-serif; fill: #1d2430; }
+      .text { font: 18px Arial, sans-serif; fill: #2a3342; }
+      .small { font: 15px Arial, sans-serif; fill: #4b5565; }
+      .tag { fill: #e9eef5; stroke: #c9d2df; stroke-width: 1.5; rx: 12; }
+      .tagText { font: 700 15px Arial, sans-serif; fill: #2a3342; }
+      .arrow { stroke: #4f647a; stroke-width: 3; fill: none; marker-end: url(#arrowHead); }
+    </style>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#4f647a"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1100" height="540"/>
+  <text class="title" x="50" y="58">Lecture 8 Study Map: Moon and Mars</text>
+  <text class="small" x="50" y="86">Environment -> Resources -> Missions -> Human Spaceflight</text>
+
+  <rect class="card" x="50" y="125" width="455" height="340"/>
+  <circle class="moon" cx="135" cy="210" r="48"/>
+  <circle fill="#b9c0cc" cx="122" cy="198" r="8"/>
+  <circle fill="#b9c0cc" cx="150" cy="226" r="12"/>
+  <circle fill="#b9c0cc" cx="110" cy="235" r="6"/>
+  <text class="subtitle" x="210" y="178">Moon</text>
+  <text class="text" x="210" y="212">Near testbed for surface operations</text>
+  <text class="small" x="210" y="240">2-5 days travel, 0.165 g, no real atmosphere</text>
+
+  <rect class="tag" x="80" y="285" width="110" height="38"/>
+  <text class="tagText" x="101" y="310">Dust</text>
+  <rect class="tag" x="205" y="285" width="110" height="38"/>
+  <text class="tagText" x="229" y="310">Water</text>
+  <rect class="tag" x="330" y="285" width="110" height="38"/>
+  <text class="tagText" x="353" y="310">ISRU</text>
+
+  <text class="small" x="80" y="365">Key missions: Apollo, Luna, Chang'e, Chandrayaan,</text>
+  <text class="small" x="80" y="389">SLIM, SMART-1, Kaguya, LRO/LCROSS, KPLO, VIPER</text>
+  <text class="small" x="80" y="426">Main challenge: regolith + radiation + logistics</text>
+
+  <rect class="card" x="595" y="125" width="455" height="340"/>
+  <circle class="mars" cx="680" cy="210" r="48"/>
+  <path d="M 635 198 C 660 188, 690 190, 724 204" stroke="#efb48c" stroke-width="7" fill="none"/>
+  <path d="M 642 230 C 675 240, 700 235, 720 224" stroke="#8d3f2b" stroke-width="5" fill="none"/>
+  <text class="subtitle" x="755" y="178">Mars</text>
+  <text class="text" x="755" y="212">Far planetary exploration target</text>
+  <text class="small" x="755" y="240">~7 months travel, ~0.38 g, thin CO2 atmosphere</text>
+
+  <rect class="tag" x="625" y="285" width="110" height="38"/>
+  <text class="tagText" x="656" y="310">Ice</text>
+  <rect class="tag" x="750" y="285" width="110" height="38"/>
+  <text class="tagText" x="778" y="310">CO2</text>
+  <rect class="tag" x="875" y="285" width="110" height="38"/>
+  <text class="tagText" x="901" y="310">Rovers</text>
+
+  <text class="small" x="625" y="365">Key missions: Mariner 9, Viking, Pathfinder, MER,</text>
+  <text class="small" x="625" y="389">MRO, ExoMars TGO, Hope, Curiosity, Perseverance, Tianwen-1</text>
+  <text class="small" x="625" y="426">Main challenge: distance + duration + autonomy</text>
+
+  <path class="arrow" d="M 505 295 C 545 260, 555 260, 595 295"/>
+  <text class="small" x="503" y="244">Moon prepares</text>
+  <text class="small" x="516" y="264">for Mars</text>
+
+  <rect x="235" y="490" width="630" height="34" rx="17" fill="#26364a"/>
+  <text x="292" y="513" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Memory line: Moon = near testbed. Mars = far planet.</text>
+</svg>

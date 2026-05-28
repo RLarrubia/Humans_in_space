@@ -1,0 +1,675 @@
+                     Courtesy of NASA
+SPACE ARCHITECTURE
+Barbara Imhof
+5 Mai 2026, TUM
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+              Destinations and Distances
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER Karte: © SIMPLYMAPS.de, CC BY-SA 4.0
+              Destinations and Distances
+
+              Outer Space
+              > 100km
+                     Kármán-Line
+                     Required uplift speed reaches orbital speed.
+
+              Low Earth Orbit (LEO)
+              < 2.000km
+                     e.g. 400km to International Space Station (ISS)
+                     (4h by train at 100km/h on average)
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER Karte: © SIMPLYMAPS.de, CC BY-SA 4.0
+                                                                                                           Apollo 17: Gene Cernan in Lunar Roving Vehicle
+                                                                                                           Courtesy of NASA/Harrison Schmitt, December 11, 1972
+
+
+              Destinations and Distances
+
+              Outer Space
+              > 100km
+                      Kármán-Line
+                      Required uplift speed reaches orbital speed.
+
+              Low Earth Orbit (LEO)
+              < 2.000km
+                      e.g. 400km to International Space Station (ISS)
+                      (4h by train at 100km/h on average)
+
+              Moon
+              400.000km
+                      Equivalent to a journey 10 times around the world
+                      (24 weeks by train – 3 days in a rocket)
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER             Courtesy of NASA
+                                                                                                           Courtesy of NASA
+
+
+
+              Destinations and Distances
+
+              Outer Space
+              > 100km
+                      Kármán-Line
+                      Required uplift speed reaches orbital speed.
+
+              Low Earth Orbit (LEO)
+              < 2.000km
+                      e.g. 400km to International Space Station (ISS)
+                      (4h by train at 100km/h on average)
+
+              Moon
+              400.000km
+                      Equivalent to a journey 10 times around the world
+                      (24 weeks by train – 3 days in a rocket)
+
+              Mars
+              56-149 Mio. km
+                      equivalent to a journey 1.400 – 3.700 around the world
+                      (64 years by train– 0,5 years in a spacecraft)
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER   Courtesy of NASA
+              Extreme Environment
+
+              Gravitation
+                      microgravity on orbit
+                      1/6 gravity on the moon
+                      1/3 gravity on Mars
+
+              Temperature
+                      -156°C to +121°C
+                      extreme changes between shadow and solar side
+
+              Vacuum
+                      extreme pressure difference
+                      temperature accumulations
+
+              Micrometeorites
+                      high speed impacts of grain size objects
+                      can cause severe damage
+
+              Cosmic rays
+                      harmful effects on humans and hardware
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER   Courtesy of NASA
+              Challenges
+              for building and living
+
+              Transport
+                      large distances
+                      effortful supply
+                      delayed communication
+                      dynamic launch loads
+
+              Shortage of space
+                      limited living space
+                      deployable structures
+                      building with in situ material
+
+              Shortage of recourses
+                      air, water, food must be brought
+                      recycling is important
+                      in situ recourse utilization (ISRU)
+                      in situ food production
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER   Credit: LIQUIFER
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER   Courtesy of NASA
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER   Courtesy of NASA
+        Commander Sunita Williams, ISS Exp.33 - https://www.youtube.com/watch?v=06-Xm3_Ze1o
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+   https://youtu.be/G9a8s6J7z7c?si=-bMDMI_TOmjkogj6
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER   © Airbus DS, LIQUIFER
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                                                                                                                                        Northern
+                                                                                                                                                        Germany
+
+
+
+            FLECS – FOLDABLE LIVING ENVIRONMENT FOR CREW SYSTEMS
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                                                                                                                                        Northern
+                                                                                                                                                        Germany
+
+
+
+            PROGRESS REPORT
+             • 2: Design
+             Project evolution
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                                                                                                                                        Northern
+                                                                                                                                                        Germany
+
+
+
+            PROGRESS REPORT
+             • 2: Design
+             Technical development
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                                                                                                                                        Northern
+                                                                                                                                                        Germany
+
+
+
+            PROGRESS REPORT
+             • 3: Implementation
+             Manufacturing
+             and assembly
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+  SPIN IN SPACE https://youtu.be/OUDRamRco74?si=vR4r5E8cSeVxmHLW
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+OFF WORLDERS https://youtu.be/xhQSHp3nPn0?si=VKXQlTSuNMLaWnUU
+
+
+
+
+                                                                Daniel Rinner, Jenny Sitzenfrey
+I-HAB Gateway https://youtu.be/E1USlQT6YVs?si=5mhch3kr7XcOhy1A
+
+
+
+
+                                                                 © LIQUIFER Systems Group
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER   LIQUIFER Systems Group, 2019
+LIQUIFER Systems Group, 2019
+                                                                                                                                                        ©SPARTAN SPACE, LIQUIFER
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                                                                                                                                        ©ESA
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                                                                                                                                        26
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                                                                   Courtesy of NASA (right), Vostok station (left)
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+ElderFox Documentaries, courtesy of NASA
+ElderFox Documentaries, courtesy of NASA
+ElderFox Documentaries, courtesy of NASA
+ElderFox Documentaries, courtesy of NASA
+courtesy of NASA
+courtesy of NASA
+ElderFox Documentaries, courtesy of NASA
+Dual-use technologies from human Mars missions
+
+CHALLENGE                            Mars technology need.                  Earth application use.
+
+1. Harmful effects of microgravity   1. Pharmacological treatments and      1. Prevention, detection & treatment
+   and radiation                        mechanical protection (material &      of illnesses, conctruction
+                                        technology)                            technologies
+
+2. Scarce air, water, resources      2. Closed-loop life support systems    2. Resource management
+
+
+3. Scarce energy supplies            3. Advanced energy sources, low        3. Energy-conserving, high
+                                        energy use technologies                efficiency products
+
+4. Safety and health risks           4. Automation and robotics             4. Automated technologies
+
+5. Hardware for extreme              5. Ultra-reliable, low maintenance     5. Ultra-reliable, low maintenance
+   conditions                           systems                                systems
+
+
+                                                                              Benaroya, H, The Martian Environment, p.367 in “From Dust to Gold“.
+                                             BUILDING
+                                             SYSTEMS
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+     Building Systems
+
+
+
+
+                                                                                                                                                             Ref. „Turning Dust to Gold, Building a Future on the Moon and Mars“ by Haym Benaroya
+          Types of applications
+          Application requirements
+
+          Types of structures
+
+
+
+
+                                                                                                                                                        37
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+     Building Systems
+
+
+
+
+                                                                                                                                                        Ref. „Turning Dust to Gold, Building a Future on the Moon and Mars“ by Haym Benaroya
+          Types of applications
+
+
+        ●      Habitats
+        ●      Storage facilities / shelters
+        ●      Supporting Infrastructure
+
+          Application requirements
+
+          Types of structures
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+       PLANNING
+    CONSIDERATIONS
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+     Planning considerations
+
+
+
+
+                                                                                                                                                        Ref. „Turning Dust to Gold, Building a Future on the Moon and Mars“ by Haym Benaroya
+          Material considerations
+          Structures and technology drivers
+          Requirement definition / evaluations
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+     Planning considerations
+
+
+
+
+                                                                                                                                                        Ref. „Turning Dust to Gold, Building a Future on the Moon and Mars“ by Haym Benaroya
+          Material considerations
+        ●       Habitation suitability
+        ●       Operational suitability / economy
+        ●       Safety
+
+
+          Structures and technology drivers
+
+          Requirement definition / evaluations
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+     Planning considerations
+
+
+
+
+                                                                                                                                                        Ref. „Turning Dust to Gold, Building a Future on the Moon and Mars“ by Haym Benaroya
+          Material considerations
+
+
+
+
+          Structures and technology drivers
+
+        ●       Mission / application influences
+        ●       General planning / design considerations
+
+          Requirement definition / evaluations
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+     Planning considerations
+
+
+
+
+                                                                                                                                                        Ref. „Turning Dust to Gold, Building a Future on the Moon and Mars“ by Haym Benaroya
+          Material considerations
+
+
+          Structures and technology drivers
+
+
+
+          Requirement definition / evaluations
+
+        ●       Requirement / Option studies
+        ●       Evaluation Studies
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+            ELEMENTS
+          CONFIGURATION
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                                                                                                                                        Credit: S. Ransom, 2014
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+             CONSTRUCTION
+                METHOD
+               APPROACH
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                                                                                                                                        Credit: LIQUIFER Systems Group
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                      RADIATION
+                                       SHIELD
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                                                                                                                                        Credit: Eagle Engineering
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                                                                                                                                        Courtesy of NASA
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                                                                                                                                        Courtesy of NASA
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                                                                                                                                        Credit: PERI, Guido Kirchner / dpa
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER   credit: LIQUIFER, ESA
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER   Credit: LIQUIFER
+   LAVA HIVE https://youtu.be/9-BBEeM_iOE?si=ZeNYAv_QZVNDMekG
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+   Additive Layer Manufacturing (3D-printing)
+   State-of-the-Art Concepts
+        Single multi-purpose robot / element/ plant
+        integrating different functions within a single unit
+
+
+
+
+                                                                                                               Foster+Partners lunar habitat concept
+
+        Several different robots/ elements/ plants
+        For different functions such as excavation, transporting, printing
+
+
+
+
+       Foster+Partners Mars habitat concept        Contour crafting lunar base            Solar Crafting habitat concept         SICSA: Ancile-Hab
+                                                   concept
+                                                   University of Southern California
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                 HABITATION
+                                 ENVELOPE
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                     TRANSHAB
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+            Inflatable TRANSHAB Module
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER   Courtesy: NASA
+                                                                                                          Courtesy of NASA
+            Inflatable
+            TRANSHAB
+            Module
+            1. Outer insulation blankets (Mylar – outside of all
+               space station modules)
+            2. Debris protection (Nextel cloth, spaced with foam
+               rubber, bullet proof Kevlar fabric)
+            3. Restraint layer, woven Kevlar
+            4. Pressure bladders (air-tight Combitherm Material
+               alternating with layers of Kevlar)
+            5. Inside wall (Nomex cloth)
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+            Inflatable TRANSHAB Module
+
+
+
+
+                                                                                                                                                        Courtesy of NASA
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+            Inflatable TRANSHAB Module
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+            Inflatable TRANSHAB
+            Module
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                                               BEAM
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+             InflatableBEAM
+            Inflatable  BEAMModule
+                             module
+
+
+
+
+                                                                                                                                                        Courtesy of NASA
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER                      Courtesy: NASA
+             InflatableBEAM
+            Inflatable  BEAMModule
+                             module
+
+
+
+
+                                                                                                                                                        Courtesy of NASA
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+Credit: SHEE consortium, visualization: LIQUIFER Systems Group; Space Innovations, 2014
+Credit Bruno Stubenrauch 2016
+Credit: SHEE consortium, visualizations: LIQUIFER Systems Group
+                                                                                                                                                        Credit: SHEE Consortium, photo: Bruno Stubenrauch, 2015
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                                                                                                                                                        Credit: SHEE Consortium, visualization: Sobriety, 2015
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+1
+    2
+
+
+
+
+    Credit: SHEE consortium, photos: Bruno Stubenrauch, COMEX, visualizations: NASA, LIQUIFER Systems Group
+                                                                                                                                                        Credit: SHEE Consortium, drawing LIQUIFER Systems Group
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+SHEE, Self-Deployable Habitat for Extreme Environments
+https://youtu.be/VN0KCEDTJ0k?si=Iu-I193kzo4FaVL_
+Credit: SHEE Consortium, photo: Bruno Stubenrauch, 2015
+Credit: SHEE Consortium, photo: Bruno Stubenrauch, 2015
+Credit Bruno Stubenrauch 2016
+Credit Bruno Stubenrauch 2016
+Credit Bruno Stubenrauch 2016
+Credit Bruno Stubenrauch 2016
+Credit Bruno Stubenrauch 2016
+Credit Bruno Stubenrauch 2016
+Credit Bruno Stubenrauch 2016
+Credit Comex 2016
+                                         https://youtu.be/Ilifg26TZrI
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+                  ISRU
+                  In-Situ Resource Utilisation
+                  •     Sonnenlicht
+                  •     Regolith (loser Sand)
+
+
+
+                  Strahlung
+                  Mikrometeoriten
+
+
+
+
+                                                           Vakuum
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+             WHAT
+                                                                                   HOW
+    •      Elements with                                                                                                                      WHY
+           3-dimensional
+           interlocking capacities
+
+
+
+
+                                                                                                                                          •      Habitats
+   •      Flat ground stabilizing                                                                                                         •      Shelters
+          elements for surface                                                                                                            •      Roads
+          battlement                                                                                                                      •      Launch pads
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+   3D solar sintering campaign as part of project RegoLight https://youtu.be/NOe3YwVvNt0?si=92zDwnqJybkTvIp2
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+   Project RegoLight https://youtu.be/vY1mkreWq_g?si=aW7XoUYtZ9NM1D1V
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER   Credit: LIQUIFER
+      Material Development                                                                             Sample production progression
+
+
+
+
+        Material composition tuning
+
+
+
+
+          Manufacture processing sequential layering colonization
+
+                                                                                  O2
+                                                           O2
+             O2                     O2
+
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+      Material Testing
+        Sand composite
+
+                                                    Compression stress                                                  Fire resistance
+
+                                                                                                                         Inorganic
+
+
+
+
+                                                                                                                         Organic
+
+
+
+
+                                                                                                                       Both “organic” and “inorganic” samples resisted
+                                                                                                                       ignition, showing only surface darkening; sand-based
+                                                 Sand–sawdust composite shows over twice the                           composites showed minimal change even under
+                                                 compressive strength of all tested organic substrates                 prolonged exposure to an open flame (standard test
+                                                                                                                       UL-94-V0)
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+      The opportunity in “encapsulation” with mycelium
+
+
+
+
+    Other sand-like matter           Basalt Fibres as offcuts and                                   Foam fragments or insulation
+                                                                     Synthetic textile waste
+    (beach and desert),                                                                             offcuts that are non-recyclable
+                                     composite scraps from           where fibre separation is
+                                                                                                    (ex. cuts-offs from foam
+    Construction waste               basalt-fibre-based products     no longer feasible (ex.
+                                                                                                    production)
+    (crushed brick/ block),          - difficult-to-recycle waste    Polyester (PET))
+    concrete residues, mineral
+    waste/dust, extraterrestrial
+    matter (regolith etc.)
+
+
+
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+      Living room
+
+
+
+
+                                                                                                                                                        Photo credit: Bruno Stubenrauch
+Vortrag TUM Human Spaceflight 5.5.2026: SPACE ARCHITECTURE , Prof. Dr. Barbara IMHOF, Integratives Design | Extremes, Universität Innsbruck, LIQUIFER
+Credit: AWI, Michael Trautmann
+Photo credit: Bruno Stubenrauch, 2017
+Credit: EDEN ISS Consortium, photo: DLR
+Credit: EDEN ISS Consortium, photo: DLR
+Credit: EDEN ISS Consortium, video: DLR
+Vertical farm Hydroponics, Finland (iFarm.fi), 12 November 2020, https://static.tildacdn.com/tild3533-3831-4835-b637-
+316137643235/
+LEBENDIGE ARCHITEKTUR – LIVING ARCHITECTURE
+Metabolische Anwendungen zur Transformation unserer Lebensräume von passiven Strukturen zu
+programmierbaren Umgebungen
+Photos: Bruno Stubenrauch
+https://youtu.be/6btwdxtan_g?si=uWJGZvD9WsnY1Pqv
+Ref. 52. Fairburn, S., Mohanty, S., Imhof, B. 2014. City as a Spaceship, 2014
+SPACE ARCHITECTURE
+Barbara Imhof
+5 Mai 2026, TUM
+

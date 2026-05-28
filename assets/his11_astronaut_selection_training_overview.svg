@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="560" viewBox="0 0 1120 560" role="img" aria-labelledby="title desc">
+  <title id="title">Astronaut selection and training study map</title>
+  <desc id="desc">A visual summary of astronaut selection and training: selection criteria, ISS tasks, training flow, EAC facilities, assigned crew training, onboard training, HBP and ISS training challenges.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f7f9fb; }
+      .card { fill: #ffffff; stroke: #cbd5df; stroke-width: 2; rx: 12; }
+      .title { font: 700 34px Arial, sans-serif; fill: #17202c; }
+      .subtitle { font: 700 22px Arial, sans-serif; fill: #17202c; }
+      .text { font: 17px Arial, sans-serif; fill: #293647; }
+      .small { font: 14px Arial, sans-serif; fill: #506073; }
+      .tag { fill: #e9f0f7; stroke: #cbd5df; stroke-width: 1.5; rx: 12; }
+      .tagText { font: 700 14px Arial, sans-serif; fill: #293647; }
+      .person { fill: #f0b84d; stroke: #9a6817; stroke-width: 3; }
+      .module { fill: #d7dde7; stroke: #6d7b8d; stroke-width: 4; }
+      .accent { fill: #4b8f7a; stroke: #2d5e51; stroke-width: 3; }
+      .arrow { stroke: #4f647a; stroke-width: 4; fill: none; marker-end: url(#arrowHead); }
+    </style>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#4f647a"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1120" height="560"/>
+  <text class="title" x="48" y="58">Lecture 11 Study Map: Astronaut Selection and Training</text>
+  <text class="small" x="50" y="88">Selection chooses suitable people; training turns them into safe, certified ISS crew members.</text>
+
+  <rect class="card" x="60" y="125" width="315" height="160"/>
+  <text class="subtitle" x="90" y="164">Selection</text>
+  <circle class="person" cx="118" cy="217" r="25"/>
+  <rect class="accent" x="102" y="248" width="32" height="44" rx="10"/>
+  <text class="text" x="165" y="205">Medical + cognitive</text>
+  <text class="text" x="165" y="230">Psychological</text>
+  <text class="text" x="165" y="255">Psychomotor + behaviour</text>
+
+  <rect class="card" x="405" y="125" width="315" height="160"/>
+  <text class="subtitle" x="435" y="164">ISS Tasks</text>
+  <text class="small" x="435" y="198">Launch, return, science, maintenance,</text>
+  <text class="small" x="435" y="220">robotics, visiting vehicles, living onboard,</text>
+  <text class="small" x="435" y="242">and emergency response.</text>
+  <rect class="tag" x="435" y="255" width="52" height="30"/>
+  <text class="tagText" x="450" y="275">Fire</text>
+  <rect class="tag" x="497" y="255" width="76" height="30"/>
+  <text class="tagText" x="512" y="275">Depress</text>
+  <rect class="tag" x="583" y="255" width="82" height="30"/>
+  <text class="tagText" x="598" y="275">Toxic spill</text>
+
+  <rect class="card" x="750" y="125" width="315" height="160"/>
+  <text class="subtitle" x="780" y="164">Training Flow</text>
+  <text class="text" x="780" y="198">Selection - Basic - Pre-assignment</text>
+  <text class="text" x="780" y="226">- Assigned crew - On-board</text>
+  <text class="small" x="780" y="255">Basic: 12 months. Assigned: 24 months.</text>
+
+  <path class="arrow" d="M 375 205 C 390 205, 390 205, 405 205"/>
+  <path class="arrow" d="M 720 205 C 735 205, 735 205, 750 205"/>
+
+  <rect class="card" x="60" y="330" width="315" height="160"/>
+  <text class="subtitle" x="90" y="369">EAC Training</text>
+  <rect class="module" x="90" y="397" width="78" height="45" rx="7"/>
+  <rect class="accent" x="186" y="397" width="78" height="45" rx="7"/>
+  <text class="small" x="90" y="463">High-fidelity mock-ups, simulators,</text>
+  <text class="small" x="90" y="483">certified instructors and feedback loops.</text>
+
+  <rect class="card" x="405" y="330" width="315" height="160"/>
+  <text class="subtitle" x="435" y="369">HBP</text>
+  <text class="small" x="435" y="402">Human Behaviour and Performance uses</text>
+  <text class="small" x="435" y="424">Crew Resource Management to reduce</text>
+  <text class="small" x="435" y="446">human error and improve team safety.</text>
+  <text class="small" x="435" y="468">Awareness - Practice - Reinforcement</text>
+
+  <rect class="card" x="750" y="330" width="315" height="160"/>
+  <text class="subtitle" x="780" y="369">Challenges</text>
+  <text class="small" x="780" y="402">International partners, two languages,</text>
+  <text class="small" x="780" y="424">global training sites, changing tasks,</text>
+  <text class="small" x="780" y="446">limited time and crew life planning.</text>
+
+  <rect x="210" y="510" width="700" height="34" rx="17" fill="#23364a"/>
+  <text x="286" y="533" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Memory line: select for suitability, train for safe performance.</text>
+</svg>

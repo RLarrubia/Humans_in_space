@@ -1,0 +1,1217 @@
+Astronaut Selection and Training
+
+
+
+Dr Rüdiger Seine
+Lead, Space Training Team, HRE-HT   ruediger.seine@esa.int
+ Outline
+       • The ISS and Tasks That Require Training
+       • Astronaut Selection
+       • ISS Crew Training
+       • Human Behaviour & Performance Training (HBP)
+       • Challenges of ISS Training
+
+
+
+
+Space Training Team                                     Slide 2
+ A Truly International Programme
+The ISS Program involves the following International Partners:
+• United States – National Aeronautics and Space Administration (NASA)
+• Russia – Russian Federal Space Agency (Roscosmos)
+• Europe – European Space Agency (ESA)
+• Japan – Japan Aerospace and Exploration Agency (JAXA)
+• Canada – Canadian Space Agency (CSA)
+
+
+
+
+Space Training Team                                                      Slide 3
+ Tasks that Require Training
+ How to get there and back..
+
+
+
+
+Space Training Team            Slide 4
+ Tasks that Require Training
+ Scientific Work – Both actively and passively as Subject
+
+
+
+
+Space Training Team                                         Slide 5
+ Tasks that Require Training
+ Maintenance and Repair – Inside and Out
+
+
+
+
+Space Training Team                        Slide 6
+ Tasks that Require Training
+ Support to Visiting Vehicles
+
+
+
+
+     Thomas Pesquet and Shane Kimbrough perform grappling and berthing of HTV-6 with
+                             robotic arm from within Cupola
+Space Training Team                                                                    Slide 7
+ Tasks that Require Training
+ Living On-board (or things we take for granted!)
+
+
+
+
+Space Training Team                                 Slide 8
+ Tasks that Require Training
+ Emergencies
+
+                Fire   Rapid Depressurisation   Toxic Spill
+
+
+
+
+Space Training Team                                           Slide 9
+ Outline
+       • The ISS and Tasks That Require Training
+       • Astronaut Selection
+       • ISS Crew Training
+       • Human Behaviour & Performance Training (HBP)
+       • Challenges of ISS Training
+
+
+
+
+Space Training Team                                     Slide 10
+ ISS Astronaut Selection
+       • Each Agency performs their own selection
+           ‒ NASA < 4 year intervals (2017 - 12, 2013 - 8, 2009 - 9,…..)
+           ‒ Roskosmos < 5 year intervals (2018 – 8, 2012 – 8, 2010 – 8, …..)
+           ‒ ESA infrequent (2023 – 5, 2009 – 8+1, 2002 – 1, 1998-1999 – 11, …..)
+           ‒ JAXA infrequent (2009 – 2+1, 1999 (2004) – 3, 1996 – 2, …..)
+           ‒ CSA infrequent (2017 – 2, 2009 – 2, 1998 – 2, …..)
+
+       • Criteria to select for:
+           ‒ psychological
+           ‒ medical
+           ‒ cognitive
+           ‒ psychomotor
+           ‒ behavioural
+Space Training Team                                                                 Slide 11
+ ESA Astronaut Selection
+       • Last ESA Astronaut Class: 2009
+           ‒ 6 Astronauts
+           ‒ first ESA-wide selection
+
+       • Definition & Preparation phase 2006-2007
+       • Selection phase May 2008 – May 2009
+           ‒ 9199 applications received
+           ‒ 8330 valid
+
+       • Medical certificate for private pilots required
+                                                     2021: >22000
+                                                     applications – 5
+                                                       successful!!
+Space Training Team                                                     Slide 12
+ESA Astronaut Class of 2023
+
+
+
+
+          S. Adenot                 R. Coogan            P. Álvarez Fernández   R. Liégeois   M. Sieber
+
+
+
+
+          From
+Space Training   time of announcement until 1. February 2023
+               Team                                                                                       Slide 13
+ ESA Astronaut Selection - process
+       • Stepped process (2009 selection data)                              Model Results (8330 applications)
+           ‒ Automated assessment (918)                           600
+
+           ‒ Psychological Test – Cognitive +
+                                                                  500
+             Medical Questionaire & HR (192)
+           ‒ Psychological Test – Assessment                      400
+             Center (45)
+
+
+
+
+                                                   # Applicants
+           ‒ Medical Test (22)                                    300
+
+
+                                                                  200
+           ‒ Professional Interviews (10)
+           ‒ Interview with Director General (6)                  100
+
+
+                                                                   0
+                                                                        0    100       200        300       400         500
+                                                                                       Points awarded
+
+Space Training Team                                                                                               Slide 14
+ ESA Astronaut Selection – member states
+                                                       Selection History by Nationality   Austria
+                                       10000                                              Belgium
+                                                                                          Denmark
+                                                                                          Finland
+                                       1000                                               France
+                                                                                          Germany
+                                                                                          Greece
+                      # Applications
+
+
+
+                                        100                                               Ireland
+                                                                                          Italy
+                                                                                          Luxembourg
+                                         10                                               Norway
+                                                                                          Portugal
+                                                                                          Spain
+                                          1                                               Switzerland
+                                                                                          Sweden
+                                                                                          United Kingdom
+                                         0.1                                              The Netherlands
+                                               Appl.   Psy1   Psy2   Med    Int   DG
+Space Training Team                                                                                         Slide 15
+ Outline
+       • The ISS and Tasks That Require Training
+       • Astronaut Selection
+       • ISS Crew Training
+       • Human Behaviour & Performance Training (HBP)
+       • Challenges of ISS Training
+
+
+
+
+Space Training Team                                     Slide 16
+ Training at EAC
+
+ •    All training given has specific Performance Objectives
+ •    Mandatory certification of instructors & individual lessons
+ •    Full scale / high fidelity training mock-ups
+ •    Software simulators for nominal and off-nominal scenarios
+ •    Student feedback collected after all training and after mission;
+      evaluated to discover +/– trends or deficiencies
+
+
+
+
+Space Training Team                                                      Slide 17
+ EAC Training Facilities
+
+
+
+
+                           Training Hall:
+                           •   Columbus Training Facility
+                           •   Payload Booths
+                               − EPM      European Physiology Module
+                               − Biolab   Biological Laboratory
+                               − EDR      European Drawer Rack
+                               − FSL      Fluid Science Laboratory
+                               − PPFS     Portable Pulmonary Function System
+Space Training Team            − LSR      Life Support Rack               Slide 18
+ EAC Training Facilities
+
+
+
+
+                      Neutral Buoyancy Facility (NBF)
+
+
+
+Space Training Team                                     Slide 19
+ Courseware and Instructor Certification Process
+
+                         Administrative Details               Dry Run
+                                                  Review
+
+                                                               Review
+                          Learning Objectives
+                                                  Review
+
+
+                           Lesson Strategy
+                                                  Review
+
+                                                               Lesson
+                         Assessment Questions              Implementation
+                                                  Review
+
+
+                           Training Materials
+                                                  Review       Review
+
+
+
+Space Training Team                                                     Slide 20
+ Outline
+       • The ISS and Tasks That Require Training
+       • The European Astronaut Centre
+       • ISS Crew Training Flow
+           ‒      Basic
+           ‒      Pre-assignment
+           ‒      Assigned Crew
+           ‒      On-board
+
+       • Human Behaviour & Performance Training (HBP)
+       • Challenges of ISS Training
+
+
+
+Space Training Team                                     Slide 21
+ Generic ISS Training Flow (All Partners)
+
+
+                                                                                               On-board
+                                                                                               Training
+                                      Other
+                                      Duties
+
+
+
+
+                                                           Pre-Assignment
+                              Basic Training                                                 Assigned Crew
+                                                               Training
+                              ESA astronauts                                                    Training
+                                                           Internat. classes
+                                12 months                                                      24 months
+                                                            variable duration
+
+
+                                               Candidate
+                  Astronaut                                                        Flight
+                                               becomes
+                  Selection                                                     Assignment
+                                               Astronaut
+
+
+
+
+Space Training Team                                                                                          Slide 22
+ Basic Training - Goals
+                                                                                     Basic
+ •   Provide internationally agreed minimum set of mandatory and                    Training
+     optional training objectives                                                     ESA
+                                                                                   astronauts
+ •   Achieve common level of Knowledge and Skills                                  12 months
+ •   Prepare astronauts for collateral duties (ESA Ambassador;         Astronaut
+
+     Education and Media events; EUROCOM; Crew support)
+                                                                       Selection
+
+
+
+ •   ISS partners provide Basic Training to own astronaut candidates
+
+
+
+
+Space Training Team                                                                         Slide 23
+ Basic Training Content - Fundamentals
+  Introduction
+  •   Overview on ESA and European Space Industry
+  •   Introduction to major space programs and space technologies
+  •   Media and TV skills
+
+
+
+  Sciences                  Engineering
+  •   Life                  •   Electrical
+  •   Material              •   Computer
+  •   Fluid                 •   Spaceflight and Aerospace
+  •   Earth
+  •   Space
+
+
+Space Training Team                                                 Slide 24
+ Basic Training Content - Space Systems & Operations
+ •    ISS and the European contributions (Columbus, ESA Payloads)
+ •    Visiting Vehicles (Soyuz, Progress, HTV, Commercial)
+ •    ISS Operations (Ground Segment, Control Centers)
+ •    Crew Health Care Systems
+
+
+
+
+Space Training Team                                                 Slide 25
+ Generic Robotics Training (GRT)
+ At EAC a team of 3 instructors teach astronauts the basics
+ of robotics in order to manipulate the ISS Robotic Arm
+
+
+  Training focuses on:
+      ‒ Arm presentation and roles in ISS ops
+      ‒ Understanding the concept of parallax
+      ‒ Clearances monitoring and cameras usage
+      ‒ Understanding various robotics frames
+      ‒ User input mastery
+      ‒ Target use & alignment
+      ‒ Manual mode vs. single joints or automatic modes
+      ‒ ISS familiarization in relation with robotics
+      ‒ Task efficiency and situational awareness
+      ‒ Verbalisation and operational setup
+
+
+
+Space Training Team                                           Slide 26
+ Basic Training Content – Special Skills
+     • Parabolic Flights – first      • SCUBA & Extra Vehicular Activity     • Survival Skills
+     experience of microgravity             (EVA) Familiarisation
+
+
+
+
+                                                                             • Generic Robotics
+
+
+                                   • Russian Language
+                                   • Human Behaviour and Performance (HBP)
+                                   • Photo & Video Skills
+
+      • Private Pilot’s Licence
+Space Training Team                                                                              Slide 27
+ Generic ISS Training Flow (All Partners)
+
+
+                                                                                               On-board
+                                                                                               Training
+                                      Other
+                                      Duties
+
+
+
+
+                                                           Pre-Assignment
+                              Basic Training                                                 Assigned Crew
+                                                               Training
+                              ESA astronauts                                                    Training
+                                                           Internat. classes
+                                12 months                                                      24 months
+                                                            variable duration
+
+
+                                               Candidate
+                  Astronaut                                                        Flight
+                                               becomes
+                  Selection                                                     Assignment
+                                               Astronaut
+
+
+
+
+Space Training Team                                                                                          Slide 28
+ Pre-Assignment Training
+
+     •   Proficiency maintenance of existing
+         qualifications:
+         ‒ EVA
+         ‒ Robotics
+         ‒ Analogue Training (CAVES/PANGAEA)
+
+
+     •   Additional operational skills:
+         − Language(s)
+         − EUROCOM
+         − Parabolic Flights
+         − NEEMO
+
+
+Space Training Team                            Slide 29
+ Extra Vehicular Activity (EVA) Proficiency Training
+ •    The Neutral Buoyancy Facility contributes to the maintenance of ESA astronauts EVA skills
+      in Europe – no need to travel to Houston
+ •    Astronauts train standard EVA operations in simulated weightlessness while operating real
+      EVA tools and applying EVA rules for safety and efficiency
+ •    In Pre-Assignment Training ESA astronauts systematically receive refresher training before
+      resuming an EVA suited run at NASA
+
+
+
+
+Space Training Team                                                                         Slide 30
+ Parabolic Flights
+   An ESA developed training programme to expose ESA astronauts to the challenges of living
+   and working in weightlessness before their first flight assignment, thereby increasing their
+   efficiency during the first days on board ISS
+
+ • Typical activities include:
+    ‒    Moving efficiently in weightlessness
+    ‒    Handling of equipment, crew bags and tools
+    ‒    Coping with disorientation illusions
+    ‒    Body stabilisation when operating hardware
+    ‒    Cardiovascular resuscitation in weightlessness
+    ‒    EVA tether protocols
+
+
+
+
+Space Training Team                                                                         Slide 31
+  Astronauts Space Analog Training & Testing
+
+CAVES - Cooperative Adventure for Valuing and
+Exercising human behaviour and performance Skills
+            o      HBP and Expeditionary Skills training
+            o      A realistic combination of environmental,
+                   situational, operational, crew selection &
+                   composition analogies
+PANGAEA - Planetary Analog Geological and
+Astrobiological Exercise for Astronauts
+            o      Geological and Astrobiological training
+            o      Analogue geologic environments, field
+                   traverses and science objectives
+ Space Training Team                                            Slide 32
+     PANGAEA: learning to “read” a planet
+
+•      Fundamentals of geologic processes
+       on Earth, Moon, Mars and asteroids
+•      Observational skills to:
+               •      Identify geological features on field
+               •      Identify plausible geologic environments
+                      that could host life
+               •      Conduct efficient sampling
+               •      Communicating effectively with
+                      scientists on Earth
+•      Operational constrains, strategies and analytical
+       tools assisting planetary explorations
+
+    Space Training Team                                          Slide 33
+ What Else Do Astronauts Do? - Other Duties
+
+
+                      PUBLIC APPEARANCES
+
+
+
+
+  FLY ZERO G                               VIP EAC TOURS   COLLATERAL GSP DUTIES
+                                                           (CAPCOM/EUROCOM)
+
+
+
+
+Space Training Team                                                        Slide 34
+ Generic ISS Training Flow (All Partners)
+
+
+                                                                                               On-board
+                                                                                               Training
+                                      Other
+                                      Duties
+
+
+
+
+                                                           Pre-Assignment
+                              Basic Training                                                 Assigned Crew
+                                                               Training
+                              ESA astronauts                                                    Training
+                                                           Internat. classes
+                                12 months                                                      24 months
+                                                            variable duration
+
+
+                                               Candidate
+                  Astronaut                                                        Flight
+                                               becomes
+                  Selection                                                     Assignment
+                                               Astronaut
+
+
+
+
+Space Training Team                                                                                          Slide 35
+ Assigned Crew Training
+  •   Tailored to individual crew members
+                                                                               Assigned
+  •   Conducted at all ISS training sites                                        Crew
+                                                                                Training
+  •   Follows strict guidelines and rules                                      24 months
+  •   Coordinated amongst all ISS partners
+                                                                     Flight
+                                                                  Assignment
+
+  •   Assembly, activation and check-out (systems and payloads)
+  •   Nominal and Off-nominal operations
+  •   Planned on-board recovery and repair
+  •   On-board experiments and payloads
+
+
+
+
+Space Training Team                                                                 Slide 36
+ Assigned Crew Training – Main Training Centres
+                                                ROSCOSMOS -Star City,
+         ESA – European Astronaut Centre,
+                                                   Moscow, Russia
+                Cologne, Germany
+
+
+
+
+        NASA - Johnson Space Centre,
+            Houston, Texas, USA             JAXA - Tsukuba Space Centre,
+                                                   Tsukuba, Japan
+
+
+
+
+Space Training Team                                                        Slide 37
+ Assigned Crew Training – Rotation Plan
+
+
+                                          A Multilateral Crew
+                                          Operations Panel (MCOP)
+                                          decides who will fly and
+                                          when.
+
+                                          Once assigned, a crew
+                                          member joins the Crew
+                                          Rotation Plan.
+
+
+
+
+Space Training Team                                          Slide 38
+ Assigned Crew Training – Levels of Training
+
+
+
+                                                 User
+
+                                               Operator
+
+
+                                               Specialist
+
+
+
+
+Space Training Team                                         Slide 39
+ Crew Qualification and Responsibilities Matrix (CQRM)
+
+ ISS tasks are distributed
+ across the crew to ensure
+ that each system can be
+ safely operated at any
+ point in time
+
+
+
+
+Space Training Team                                      Slide 40
+ Assigned Crew Training – TRIP Template
+ Exp 34: CSA: Edward Tabarah; ESA: Norbert Illmer; JAXA: Kazuharu Nara; NASA: Alicia Simpson; Russia: Evgeny Andreev TEMPLATE AGREED TO THROUGH LAUNCH                                     Art       Artemyev               Mis        Misurkin              Sw        Swanson            A training in U.S.
+                                2012                    2013                                                                                                                               Cs        Cassidy                Mt         Mastracchio           Tu        Tyurin            C training in Canada
+                      November       December        January '13                                                                                                                           Ct        Cristoforetti          Nb         Nyberg                Vr        Virts              E training in Europe
+                     5   12 19 26   3   10 17 24 31    7 14 21 28                                                                                                                          Ge        Gerst                  Ov         Ovchinin              Vin       Vinogradov        H Home week
+ Rom (33S)           R   R R R R R         L 33S 12/19/12                                                                                                                                  Hd        Hadfield               Pm         Parmitano             Wr        Wilmore            I immersion language training in Russia
+ Hd (33S)            R   R R R R R         L 33S 12/19/12                                                                                                                                  Hp        Hopkins                Ryz        Ryazanskiy            Wk        Wakata             J training in Japan
+ Mb (33S)            V   R R R R R         L 33S 12/19/12                                                                                                                                  Kt        Kotov                  Rom        Romanenko             Ws        Wiseman           LS Launch Support
+                                                                                                                                                                                           Lg        Lindgren               Sam        Samokutyaev           Yui       Yui               R training in Russia
+                                                                                                                                                                                           Lon       Lonchakov              Ser        Serova                Yur       Yurchikhin         V vacation
+ Exp 35: CSA: Marius Ochisor; ESA: Ruediger Seine; JAXA: Kazuharu Nara; NASA: Kay Bond; Russia: Igor Koreshev TEMPLATES AGREED TO THROUGH LAUNCH                                           Mb        Marshburn              Skv        Skvortsov
+                                 2012                                      2013                                2013
+                       November       December       January '13  February     March           April           May
+                     5   12 19 26   3   10 17 24 31    7   14 21 28   4 11 18   25 4     11 18 25   1   8   15 22 29    6   13 20 27
+ Vin (34S)           R   E R A      A   R E    R   V   A   A R R R R R R R R R                  L 34S 03/28/13
+ Mis (34S)           R   E V A      A   R E    R   V   A   A R R R R R R R R R                  L 34S 03/28/13
+ Cs (34S)            A   A V A      A   R J    V   V   A   A A E A A A/R R R R R                L 34S 03/28/13
+
+ Exp 36: CSA: Marius Ochisor; ESA: Ruediger Seine; JAXA: Kazuharu Nara; NASA: Kay Bond; Russia: Evgeny Andreev TEMPLATES AGREED TO THROUGH JANUARY 31, 2013
+                                 2012                                      2013                                         2013
+                       November       December       January '13  February     March           April         May        June       July
+                     5   12 19 26   3   10 17 24 31    7 14 21 28     4 11 18   25 4     11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 29
+ Yur (35S)           R   R R R R R 33S R           V   A   A R R R R R R A               A A    R R     R   R R R R R R            L 35S 05/28/13
+ Pm (35S)            R   R R R R R 33S V           V   A   A A E/R R R H E A             A A    A E     R   R R R R R R            L 35S 05/28/13
+ Nb (35S)            A   R R R R R 33S V           V   A   A A R R R J J/A A             A A    A A     V   E R R R R R            L 35S 05/28/13
+
+ Exp 37: CSA: Marius Ochisor; ESA: Gerhard Gritner ; JAXA: Kazuharu Nara; NASA: Jennifer James; Russia: Alexei Kirillov TEMPLATES AGREED TO THROUGH JANUARY 25, 2013
+                                 2012                                        2013                                                    2013                                                                                2013
+                       November       December        January '13  February      March           April           May          June        July        August      September                                              October           November
+                     5   12 19 26   3   10 17 24 31    7 14 21 28     4 11 18   25 4     11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 22   29   5 12 19 26 2          9 16 23 30          7 14    21 28 4        11   18 25
+ Kt (36S)            R   R E   E R R R J           V   R A A     A    R R R R R R R 34S V               V   R R A       A R R R R R R R A                 A A    R R R R R R R R                      R   L 36S 09/25/13
+ Ryz (36S)           R   R E   R R R R J           V   R A A     A    R R R R R R R 34S V               V   R R A       A R R R R R R R A                 A A    R R R R R R R R                      R   L 36S 09/25/13
+ Hp (36S)            A   A V   E R R R V           V   A A A     E    A A R R R R R 34S V               A   A A A       A A A J J R R R A                 A A    A A E V R R R R                      R   L 36S 09/25/13
+
+ Exp 38: CSA: Marius Ochisor; ESA: Gerhard Gritner; JAXA: Kazuharu Nara; NASA: Michelle Banks; Russia: Pavel Rudnev TEMPLATES AGREED TO THROUGH JANUARY 31, 2013
+                                 2012                                       2013                                                 2013                                                                                              2013                                           2014
+                       November       December        January '13  February     March           April           May       June         July       August       September                                                 October           November          December          January '14
+                     5   12 19 26   3   10 17 24 31    7 14   21 28   4   11 18 25   4   11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 22 29     5   12 19 26    2     9   16 23 30        7    14 21 28     4    11 18 25     2   9     16 23 30    6    13 20 27
+ Tu (37S)            R   R E   R R R R R           V   V R V     R R R       J R A       A A E      R   R   R R R R R R 35S V              R R R A        A A R R R R R R A                      A    R R R R R R R R R R                             L 37S 11/25/13
+ Mt (37S)            A   A V   E R R R V           V   A A A     R R R       J A A       A A A      V   E   R R R R R R 35S V              V A A A        A A A R R R R R A                      A    A A A/V E R R R R R R                           L 37S 11/25/13
+ Wk (37S)            A   A V   A R R R V           V   A A A     R R R       J H/J A     V A A      A   E   V R R R R R 35S V              V A A A        A A H J J R R R A                      A    A A A E V R R R R R                             L 37S 11/25/13
+
+ Exp 39: CSA: Marius Ochisor; ESA: Norbert Illmer; JAXA: Kazuharu Nara; NASA: Natasha Niemann; Russia: Igor Koreshev TEMPLATES AGREED TO THROUGH JANUARY 31, 2013
+                                 2012                                        2013                                                 2013                                                                                             2013                                                                        2014
+                       November       December        January '13  February       March         April           May        June         July       August       September                                                October           November          December          January '14         February               March           April
+                     5   12 19 26   3   10 17 24 31    7 14   21 28   4   11 18 25   4   11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 22 29     5   12 19 26    2     9   16 23 30        7    14 21 28     4    11 18 25     2   9     16 23 30    6    13 20 27   3    10 17 24    3     10 17 24 31     7   14 21 28
+ Skv (38S)           R   R R R E        E R R      V   V   R R R R R V V V V                R E R       R   A   A   A   R R V      V   R R R R R R A A                R R R R R R R                   R 36S V        R A     A     A   R R R R R R R R R R A A                            R R R R R R R R R                        L 38S 3/31/14 TBD
+ Art (38S)           R   R R R E        R R R      V   V   R R R A A V V V V                R R R       R   A   A   A   R R V      V   J R R R R R A A                R R R R R R R                   R 36S V        R A     A     A   R R R R R R R R R R A A                            R R R R R R R R R                        L 38S 3/31/14 TBD
+ Sw (38S)            R   R V A A        A A V      V   E   R R R A A A/V V/A A A            J J R       R   A   A   A   A A A      J   J R R R R A A A                A E E R R R R                   R 36S V        V A     A     A   A A J J R R R V V A A A                            A A A/V E R R R R R                      L 38S 3/31/14 TBD
+
+ Exp 40: CSA: Marius Ochisor; ESA: Norbert Illmer; JAXA: Kazuharu Nara; NASA: Natasha Niemann; Russia: Evgeny Andreev TEMPLATES AGREED TO THROUGH JANUARY 31, 2013
+                                 2012                                        2013                                                2013                                                                                              2013                                                                        2014                                                 2014
+                       November       December        January '13  February       March         April          May        June         July       August       September                                                 October           November          December          January '14         February               March           April          May                   June
+                     5   12 19 26   3   10 17 24 31    7 14   21 28   4   11 18 25   4   11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 22 29     5   12 19 26    2     9   16 23 30        7    14 21 28     4    11 18 25     2   9     16 23 30    6    13 20 27   3    10 17 24    3     10 17 24 31     7   14 21 28   5   12 19 26    2     9    16 23 30
+ Sur (39S)           R   R R R R R R R V V R R R R E                         R R R V        V   R R     R   R R R R A          A   V   V   R R R R R R A              A    R R R R A             A    A   R R R R R R R R R 37S V                            V R R V          V A A R R R R R A                       A A      R R R R R R R R R L 39S 5/28/14 TBD
+ Ws (39S)            A   A V A A A/V A/V V V/A A R R R R E                   A A A V        A   A R     R   R R A A A          A   A   J   R R R V A A A              E    R R R R A             A    A   A A/V E R R R R R R 37S A                          A A V V          A A A R R R R R A                       A A      A A E R R R R R R L 39S 5/28/14 TBD
+ Ge (39S)            A   A A A R R E V V H R R R H V                         A A A V        J   J R     R   R H E A A          A   A   E   E V V H A A A              J    J R R R A             A    A   A R R E R R R R R 37S A                            A E V V          A A A R R R R/E J J                     A A      A A E R R R R R R L 39S 5/28/14 TBD
+
+ Exp 41: CSA: Marius Ochisor; ESA: Luca Anniciello; JAXA: Kazuharu Nara; NASA: Alicia Simpson; Russia: Alexei Kirillov TEMPLATES AGREED TO THROUGH JANUARY 31, 2013
+                                 2012                                       2013                                                     2013                                                                                          2013                                                                        2014                                                                   2014                                              2014
+                       November       December        January '13  February      March           April            May         June         July       August       September                                             October           November          December          January '14         February               March           April          May                   June              July           August         September     October
+                     5   12 19 26   3   10 17 24 31    7 14   21 28   4   11 18 25   4   11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 22 29     5   12 19 26    2     9   16 23 30        7    14 21 28     4    11 18 25     2   9     16 23 30    6    13 20 27   3    10 17 24    3     10 17 24 31     7   14 21 28   5   12 19 26    2     9    16 23 30     7   14 21 28   4   11 18 25   1   8   15 22 29   6   13 20     27
+ Sam (40S)           R   R R R R R R R             V   V   R R R R R R R R R R R R                      R   R R R R R V            V   V   V   R R R R R R R A                 A A     R R R          R R R R R R R A A                          E   R R R R R V              V A      A R R R R R R R R R 38S V                          V   R R R A A R R R R R R R A A A R R R R R R R R L 40S 9/30/14 TBD
+ Ser (40S)           R   R R R R R R R             V   V   R R R R R R R R R R R R                      R   R R R R R V            V   V   V   R R R R R R R A                 A A     A A R          R R R R R A A A A                          E   R R R R J V              V A      A R R R R R R R R R 38S V                          V   R R R A A R R R R R R R A A A R R R R R R R R L 40S 9/30/14 TBD
+ Wr (40S)            A   A A A A A A V             V   A   V R R R R A A A V A R R                      R   E A A A A A            A   A   J   J R R R V V A A                 A A     A E E          R R R A A A A A A                          J   J R R R V V              A A      A A A V E R R R R R 38S V                          V   A A A A A J J R R R V V A A A A A E R R R R R L 40S 9/30/14 TBD
+
+ Exp 42: CSA: Marius Ochisor; ESA: Luca Anniciello; JAXA: Kazuharu Nara; NASA: Alicia Simpson; Russia: Pavel Rudnev TEMPLATES AGREED TO THROUGH JANUARY 31, 2013
+                                                                            2013                                                  2013                                                                                             2013                                                                        2014                                                                   2014                                                                  2014
+                       November       December        January '13  February      March           April          May        June         July       August        September                                               October           November          December          January '14         February               March           April          May                   June              July           August         September          October          November         December
+                     5   12 19 26   3   10 17 24 31    7 14   21 28   4   11 18 25   4   11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 22 29     5   12 19 26    2     9   16 23 30        7    14 21 28     4    11 18 25     2   9     16 23 30    6    13 20 27   3    10 17 24    3     10 17 24 31     7   14 21 28   5   12 19 26    2     9    16 23 30     7   14 21 28   4   11 18 25   1   8   15 22 29   6   13 20     27   3   10 17 24   1   8   15 22 29
+ TBD (41S)           R   R R R R R R R             V   V R R R R R R R R R R R R                        R   R R R R R R R R R R R R R R R R A                                  A   A   A   A R        R R R R R R R R R R R A                                A     A   R V    V J      R R R R R E              A     A    A   R R R R R R R R R 39S V                     V R R R A A A R R R R R R R A A R R R R                                          R    R R R R L 41S 12/01/14 TBD
+ Ct (41S)            A   A A H H H H V             V   A A H H H H H H H E R R R                        R   R H E A A A H H H H R H R R R H A                                  A   A   E   H H        E R R R R R A A A H E A                                A     A   V V    H E      R R R R R J              J     A    A   A E R R R R R R R 39S V                     V E A A A A A R R R J J H A A A A/H E R R                                        R    R R R R L 41S 12/01/14 TBD
+ Vr (41S)            A   A A A A A A V             V   A A R R R A A A A V R R A                        A   A A A A A A A A J J R R R R A A A                                  A   A   A   A A        A E R R R R A A A A A A                                A     A   V V    A A      A R R R R J              J     V    A   A A A E R R R R R 39S V                     V A A A A A A R R R J J A A A A A E V V                                          R    R R R R L 41S 12/01/14 TBD
+
+ Exp 43: CSA: Marius Ochisor; ESA: Ruediger Seine; JAXA: Kazuharu Nara; NASA: Jennifer James; Russia: Igor Koreshev TEMPLATES AGREED TO THROUGH JANUARY 31, 2013
+                                 2012                                      2013                                                  2013                                                                                              2013                                                                        2014                                                                   2014                                                                  2014                                                                   2015
+                       November       December       January '13  February      March           April           May        June        July        August      September                                                 October           November          December          January '14         February               March           April          May                   June              July           August         September          October          November         December       January '15        February            March              April
+                     5   12 19 26   3   10 17 24 31    7 14   21 28   4   11 18 25   4   11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 22 29     5   12 19 26    2     9   16 23 30        7    14 21 28     4    11 18 25     2   9     16 23 30    6    13 20 27   3    10 17 24    3     10 17 24 31     7   14 21 28   5   12 19 26    2     9    16 23 30     7   14 21 28   4   11 18 25   1   8   15 22 29   6   13 20     27   3   10 17 24   1   8   15 22 29   5   12 19 26   2    9   16 23    2     9   16 23 30   6   13 20 27
+ TBD RUS (42S)                                     V   V   R R R R R R R R R R R R                      R   R R R R R R R R R R R R R R R R R R R R R R                                               R R R R R R R A A A R R R R R V                                         V     R R R R R R E               R V V          A A A      R R R R R R R R J R A A A R R R R R R R R R R R 40S V A A                                                         A    R R R R R R R R V V A A R R R R R R R R R L 42S 03/30/2015 TBD
+ TBD-1 year RUS                                    V   V   R R R R R R R R R R R R                      R   R R R R R R R R R R R R R R R R R R R R R R                                               R R R R R R R R A A R R R R R V                                         V     R R R R R R E               R V V          R A A      R R R R R R R R J R A A A R R R R R R R R R R R 40S V A A                                                         A    R R R R R R R R V V A A R R R R R R R R R L 42S 03/30/2015 TBD
+ Ks - 1 year (42S)                                               A A A A A V A A A                      A   A A A A A A R R R R R V A A A A A A A A R R                                               R R A A A A R R R R V A A A V V                                         A     A R R R E A A               A A V          A A A      A E R R R R J J A A A A A A V A A E E R R R R R 40S A A A                                                         A    R R R V A J J V V A A A A A A E R R R R R L 42S 03/30/2015 TBD
+
+ Exp 44: CSA: Marius Ochisor; ESA: Ruediger Seine; JAXA: Kazuharu Nara; NASA: Dale Williamson; Russia: Igor Koreshev               TEMPLATES AGREED TO THROUGH JANUARY 31, 2013
+                                 2012                                      2013                                                                2013                                                                                2013                                                                        2014                                                                   2014                                                                  2014                                                                   2015                                                2015
+                       November       December        January     February      March           April           May                     June        July        August      September                                    October           November          December          January '14         February               March           April          May                   June              July           August         September          October          November         December       January '15        February            March              April          May                   June
+                     5   12 19 26   3   10 17 24 31    7 14   21 28   4   11 18 25   4   11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 22 29     5   12 19 26    2     9   16 23 30        7    14 21 28     4    11 18 25     2   9     16 23 30    6    13 20 27   3    10 17 24    3     10 17 24 31     7   14 21 28   5   12 19 26    2     9    16 23 30     7   14 21 28   4   11 18 25   1   8   15 22 29   6   13 20     27   3   10 17 24   1   8   15 22 29   5   12 19 26   2    9   16 23    2     9   16 23 30   6   13 20 27   4   11 18 25    1     8    15 22 29
+ TBD (43S)                                         V   V   R R R R R R R R R R R R                      R   R R R R R R R R R R R R R R R R R R R R R R                                               R R R R R R R R R R R R R R R V                                         V     R R R R R R A               A     A    A   A   R R R R R E R R R R J R A A A R R R R R R R A A A R R R R R                                                              R    R R R R 41S R R R V V R A A A R R R R A A R R R R R R R R R L 43S 05/30/2015 TBD
+ Yui (43S)                          A A    A   V   V   A   A A A A R R R R V A A R                      R   R R A A A A A R R R R R H V A A A V R R R R                                               H A A A R R R R R A H A A A V V                                         A     R R R R R H J               J     V    A   A   A A A A A E E R R R V A A A A E R R R R J J/H A A A A E R R R                                                            R    R R R R 41S A A V V J J H A A R R R R A A A A E R R R R R R L 43S 05/30/2015 TBD
+ Lg (43S)                           A A    A   V   V   A   A A A A A A A A V A A R                      R   R R A A A A A A R R R R A V V A A A A A A A                                               A A A A A R R R R A V A A A V V                                         A     A R R R R A A               A     V    A   A   A A A A A E A A R R J A A A A A R R R R A A A A A A A A V E                                                              R    R R R R 41S A A V V A A A A A R R R A A A A A V E R R R R R L 43S 05/30/2015 TBD
+
+
+
+
+Space Training Team                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Slide 41
+ COLUMBUS Systems
+
+
+ •    Data Management
+ •    Electrical Power Distribution
+ •    Thermal Control
+ •    Environmental Control & Life Support
+ •    Communications
+
+
+ •    Payloads
+
+
+
+
+Space Training Team                          Slide 42
+
+
+                                                    42
+ COLUMBUS Module
+
+
+
+
+    Columbus in-flight module. T. Pesquet Nov 16         Columbus training mock-up at EAC Mar 18
+
+
+Space Training Team                                                                            Slide 43
+                                                   Aft
+                                                                                                      43
+ Payloads
+
+                                                         European Drawer Rack (EDR) with ESA
+                                                            Electromagnetic Levitator (EML)
+
+
+
+
+     Biolab (center) with NASA Express 3 rack to right
+
+
+                                                                                               European Physiology Module (EPM).
+
+
+Space Training Team                                                                                                       Slide 44
+
+
+                                                                                                                                   44
+ Generic ISS Training Flow (All Partners)
+
+
+                                                                                               On-board
+                                                                                               Training
+                                      Other
+                                      Duties
+
+
+
+
+                                                           Pre-Assignment
+                              Basic Training                                                 Assigned Crew
+                                                               Training
+                              ESA astronauts                                                    Training
+                                                           Internat. classes
+                                12 months                                                      24 months
+                                                            variable duration
+
+
+                                               Candidate
+                  Astronaut                                                        Flight
+                                               becomes
+                  Selection                                                     Assignment
+                                               Astronaut
+
+
+
+
+Space Training Team                                                                                          Slide 47
+ On-Board Training
+
+ • During ISS mission for:
+      −     regular emergency drills (fire, depressurisation, toxic spill),
+            combined with Flight Control Teams
+      −     proficiency maintenance of critical operational skills, e.g. rendezvous & docking
+      −     preparation for unplanned activities (e.g. repair of failed equipment), which
+            could not be trained on ground
+
+
+ • Pros:
+   ‒ close to actual performance of task
+
+ • Cons:
+   ‒ reduces the operational crew time
+
+Space Training Team                                                                             Slide 48
+ Outline
+       • The ISS and Tasks That Require Training
+       • The European Astronaut Centre
+       • ISS Crew Training Flow
+       • Human Behaviour & Performance Training (HBP)
+       • Challenges of ISS Training
+
+
+
+
+Space Training Team                                     Slide 49
+ Human Behaviour and Performance (HBP)
+
+ • Refers to how behaviour affects human performance
+ • Promotes the use of behaviours which enable optimal use of all available
+   resources (equipment, procedures, people) to enhance team safety and
+   operational effectiveness
+ • Based on operational and social psychology, uses the methods and
+   techniques of Crew Resource Management
+ • ESA HBP training is given to Astronauts (during Basic or Pre-Assignment
+   training), Eurocoms, Flight Directors and Flight Controllers, so that all these
+   different groups have the same understanding and are able to work together in
+   minimising the potential for ‘human error’
+
+
+Space Training Team                                                            Slide 50
+ Accident Causes
+                                                             Marine Accidents
+                      Aviation Accidents (1996-2004)
+
+
+
+
+                       Railway Accidents               Commercial Transportation Highway
+                                                                  Accidents
+
+
+
+
+Space Training Team                                                                  Slide 51
+ Failed defences
+
+
+
+
+                                           Maintenance
+                                    Design Factors
+                            Organisational Factors
+                      Human Error Factors
+
+                                          [ Reason, 1990 ]
+Space Training Team                                          Slide 52
+ Elements of Stress During Space Flights
+     Physiological/                    Psychological                      Psychosocial                      Human factors                       Habitability
+       physical
+           Radiation                 Isolation & confinement            High team coordination          High & low levels of workload           Limited hygiene
+                                                                               demands
+
+    Absence of natural time            Limited possibility for       Interpersonal tension between           Limited exchange of          Chronic exposure to vibration
+         parameters                        abort/rescue                     crew and ground               info/comms with external                 and noise
+                                                                                                                 environment
+
+   Altered circadian rhythms      High-risk conditions & potential        Family life disruption         Limited equipment, facilities       Limited sleep facilities
+                                           for loss of life                                                      and supplies
+
+    Decrease in exposure to        System & mission complexity       Enforced interpersonal contact           Mission danger & risk          Lighting & illumination
+           sunlight                                                                                       associated with: equipment
+                                                                                                        failure, malfunction or damage
+
+
+   Adaptation to microgravity      Hostile external environment      Crew factors (i.e. gender, size,    Adaptation to the artificially          Lack of privacy
+                                                                           personality, etc.)             engineered environment
+
+
+ Sensory/perceptual deprivation    Alterations in sensory stimuli          Multicultural issues           Food restriction/limitations    Isolation from support system
+    of varied natural sources
+
+
+       Sleep disturbance                Disruption in sleep            “Host-Guest”-phenomenon               Technology-interface
+                                     (readjustment with crew                                                     challenges
+                                          changeovers)
+
+   Space Adaptation Sickness         Limited habitability (e.g.              Social conflict                Use of equipment in                 [Morphew, 2001]
+Space Training(SAS)
+                Team                     limited hygiene)                                                  microgravity conditions                             Slide 53
+ Which HBP Skills?
+
+
+
+
+Space Training Team   Slide 54
+ How is HBP Taught at EAC?
+
+ HBP training at EAC focuses on three main aspects which
+ are all interlinked:
+
+                                                                         awareness
+ •    Awareness: Participants recognize the impact of
+      HBP skills on performance
+
+                                                              practice
+ •    Practice: Participants participate actively in
+      discussion and exercises practice HBP skills
+                                                                         reinforcement
+
+ •    Reinforcement: Participants HBP skills are
+      reinforced during technical training and specific HBP
+      events such as CAVES
+
+Space Training Team                                                                  Slide 55
+ HBP training: practice
+                                                                           reinforce
+                                                                             ment
+
+
+
+
+                                                                practice
+                                                                                awareness
+
+                       Video
+                                     Group         Individual
+                      Feedback
+                                    exercises       Feedback
+                      Coaching
+                                                                                   Group
+                                                                                discussions
+
+                            Role                                       Computer
+                            plays                                      simulation
+
+                      Scenario-
+                        based                 Crew                                 Team
+                       training             centered                            & personal
+                                           debriefings                           logbooks
+Space Training Team                                                                           Slide 56
+ HBP Training: reinforcement
+                                          Reinforce
+                                           -ment
+
+
+
+
+                               practice
+                                               awareness
+
+
+
+
+Space Training Team                                   Slide 57
+ CAVES – A real space analogue
+      ENVIRONMENTAL                       OPERATIONAL                                 EVA
+
+
+
+
+  Unknown (alien) environment
+        Sensory deprivation          Exploring team / Ground team
+  Alteration of circadian rhythm   Intense space-mission like working           3D progression
+       Limited private space                    schedule                    orienteering difficulties
+              Isolation              Space-mission like procedures      Limited vision (helmets, lights)
+      Limited communication           Use of board equipment lists              No touch areas
+     Large level of autonomy        Communication with ground team        Via ferrata and safety lines
+         Limited resources                    (twice/day)                      Longe, carabiners
+       Real physical danger                                                     Safety protocols
+Space Training Team                                                                               Slide 58
+ Elements of stress covered in CAVES
+     Physiological/                    Psychological                      Psychosocial                      Human factors                       Habitability
+       physical
+           Radiation                 Isolation & confinement            High team coordination          High & low levels of workload           Limited hygiene
+                                                                               demands
+
+    Absence of natural time            Limited possibility for       Interpersonal tension between           Limited exchange of          Chronic exposure to vibration
+         parameters                        abort/rescue                     crew and ground               info/comms with external                 and noise
+                                                                                                                 environment
+
+   Altered circadian rhythms      High-risk conditions & potential        Family life disruption         Limited equipment, facilities       Limited sleep facilities
+                                           for loss of life                                                      and supplies
+
+    Decrease in exposure to        System & mission complexity       Enforced interpersonal contact           Mission danger & risk          Lighting & illumination
+           sunlight                                                                                       associated with: equipment
+                                                                                                        failure, malfunction or damage
+
+
+   Adaptation to microgravity      Hostile external environment      Crew factors (i.e. gender, size,    Adaptation to the artificially          Lack of privacy
+                                                                           personality, etc.)             engineered environment
+
+
+ Sensory/perceptual deprivation    Alterations in sensory stimuli          Multicultural issues           Food restriction/limitations    Isolation from support system
+    of varied natural sources
+
+
+       Sleep disturbance                Disruption in sleep            “Host-Guest”-phenomenon               Technology-interface
+                                     (readjustment with crew                                                     challenges
+                                          changeovers)
+
+   Space Adaptation Sickness         Limited habitability (e.g.              Social conflict                Use of equipment in                 [Morphew, 2001]
+Space Training(SAS)
+                Team                     limited hygiene)                                                  microgravity conditions                             Slide 59
+ Outline
+       • The ISS and Tasks That Require Training
+       • The European Astronaut Centre
+       • ISS Crew Training Flow
+       • Human Behaviour & Performance Training (HBP)
+       • Challenges of ISS Training
+
+
+
+
+Space Training Team                                     Slide 60
+ Challenges of ISS Training
+
+The planning, coordination & implementation of ISS Training poses some challenges:
+
+ •    Complexity of the International ISS consortium
+       ‒ Crew exchanges
+       ‒ Multitude of on-board tasks
+             fair distribution across 6 crew members
+
+ •    Number of International Partners
+       ‒ Two languages on-board
+       ‒ 5 distinct, globally distributed training locations
+       ‒ Cultural differences
+
+ •    Time Pressure
+       ‒ Restriction of Assigned Crew Training to 24 months
+       ‒ Dynamic development of tasks requiring constant training updates
+
+Space Training Team                                                          Slide 61
+ Challenges of ISS Training – ATV Example
+                          ISS Prerequisite         ATV Training Period 1                       ATV Training Period 2
+                              Training
+                      N
+                      A      IMS Training
+                      S
+                      A
+
+                                             Overview of Vehicle,                        Cargo transfer (dry
+                                             Systems, Mission,                           cargo, water, gas)
+                                             Operations.                                 procedures.
+                                             RVD overview and                            Undocking &
+                                             detailed procedure                          departure procedure
+                      E                      (theory and practice).                      (theory and practice).
+                                             Undocking &                                 RVD, undocking and
+                      S                      departure overview.                         departure stand-alone
+                      A                      Ingress/egress                              simulations.
+                                             operations                                  Attached phase
+                                             (procedure).                                simulations.
+                                             Emergency                                   In-flight maintenance.
+                                             procedures.
+
+
+
+                                                                      RS ISS systems                              RvD and
+                      G                                               training with                               undocking
+                      C    Russian Docking
+                                                                      respect to ATV,                             proficiency
+                               System
+                      T        training
+                                                                      PCE and HCP                                 training &
+                      C                                               installation and                            simulations
+                                                                      testing
+
+
+Space Training Team                                                                                                             Slide 62
+ Challenges of ISS Training – Continuous vs Single
+
+
+                      Continuous program                          Single mission
+                             (ISS)                               (Space Shuttle)
+
+ Astronauts & flight controllers hired in parallel Astronauts & flight controllers work in
+ to mission implementation                         development program
+
+ Knowledge management required                    Knowledge results from development program
+
+
+ Training required with consistent, reliable      Training only used once or twice
+ quality (ISS ~ 20years)
+
+ Effort of ‘Instructional System Design’ pays     Training by technical experts (minimal effort
+ off                                              for training development)
+
+
+
+Space Training Team                                                                          Slide 63
+ Challenges of ISS Training – Life Planning for Crew
+          Exp 34: CSA: Edward Tabarah; ESA: Norbert Illmer; JAXA: Kazuharu Nara; NASA: Alicia Simpson; Russia: Evgeny Andreev TEMPLATE AGREED TO THROUGH LAUNCH                                     Art       Artemyev               Mis        Misurkin              Sw        Swanson            A training in U.S.
+                                         2012                    2013                                                                                                                               Cs        Cassidy                Mt         Mastracchio           Tu        Tyurin            C training in Canada
+                               November       December        January '13                                                                                                                           Ct        Cristoforetti          Nb         Nyberg                Vr        Virts              E training in Europe
+                              5   12 19 26   3   10 17 24 31    7 14 21 28                                                                                                                          Ge        Gerst                  Ov         Ovchinin              Vin       Vinogradov        H Home week
+          Rom (33S)           R   R R R R R         L 33S 12/19/12                                                                                                                                  Hd        Hadfield               Pm         Parmitano             Wr        Wilmore            I immersion language training in Russia
+          Hd (33S)            R   R R R R R         L 33S 12/19/12                                                                                                                                  Hp        Hopkins                Ryz        Ryazanskiy            Wk        Wakata             J training in Japan
+          Mb (33S)            V   R R R R R         L 33S 12/19/12                                                                                                                                  Kt        Kotov                  Rom        Romanenko             Ws        Wiseman           LS Launch Support
+                                                                                                                                                                                                    Lg        Lindgren               Sam        Samokutyaev           Yui       Yui               R training in Russia
+                                                                                                                                                                                                    Lon       Lonchakov              Ser        Serova                Yur       Yurchikhin         V vacation
+          Exp 35: CSA: Marius Ochisor; ESA: Ruediger Seine; JAXA: Kazuharu Nara; NASA: Kay Bond; Russia: Igor Koreshev TEMPLATES AGREED TO THROUGH LAUNCH                                           Mb        Marshburn              Skv        Skvortsov
+                                          2012                                      2013                                2013
+                                November       December       January '13  February     March           April           May
+                              5   12 19 26   3   10 17 24 31    7   14 21 28   4 11 18   25 4     11 18 25   1   8   15 22 29    6   13 20 27
+          Vin (34S)           R   E R A      A   R E    R   V   A   A R R R R R R R R R                  L 34S 03/28/13
+          Mis (34S)           R   E V A      A   R E    R   V   A   A R R R R R R R R R                  L 34S 03/28/13
+          Cs (34S)            A   A V A      A   R J    V   V   A   A A E A A A/R R R R R                L 34S 03/28/13
+
+          Exp 36: CSA: Marius Ochisor; ESA: Ruediger Seine; JAXA: Kazuharu Nara; NASA: Kay Bond; Russia: Evgeny Andreev TEMPLATES AGREED TO THROUGH JANUARY 31, 2013
+                                          2012                                      2013                                         2013
+                                November       December       January '13  February     March           April         May        June       July
+                              5   12 19 26   3   10 17 24 31    7 14 21 28     4 11 18   25 4     11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 29
+          Yur (35S)           R   R R R R R 33S R           V   A   A R R R R R R A               A A    R R     R   R R R R R R            L 35S 05/28/13
+          Pm (35S)            R   R R R R R 33S V           V   A   A A E/R R R H E A             A A    A E     R   R R R R R R            L 35S 05/28/13
+          Nb (35S)            A   R R R R R 33S V           V   A   A A R R R J J/A A             A A    A A     V   E R R R R R            L 35S 05/28/13
+
+          Exp 37: CSA: Marius Ochisor; ESA: Gerhard Gritner ; JAXA: Kazuharu Nara; NASA: Jennifer James; Russia: Alexei Kirillov TEMPLATES AGREED TO THROUGH JANUARY 25, 2013
+                                          2012                                        2013                                                    2013                                                                                2013
+                                November       December        January '13  February      March           April           May          June        July        August      September                                              October           November
+                              5   12 19 26   3   10 17 24 31    7 14 21 28     4 11 18   25 4     11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 22   29   5 12 19 26 2          9 16 23 30          7 14    21 28 4        11   18 25
+          Kt (36S)            R   R E   E R R R J           V   R A A     A    R R R R R R R 34S V               V   R R A       A R R R R R R R A                 A A    R R R R R R R R                      R   L 36S 09/25/13
+          Ryz (36S)           R   R E   R R R R J           V   R A A     A    R R R R R R R 34S V               V   R R A       A R R R R R R R A                 A A    R R R R R R R R                      R   L 36S 09/25/13
+          Hp (36S)            A   A V   E R R R V           V   A A A     E    A A R R R R R 34S V               A   A A A       A A A J J R R R A                 A A    A A E V R R R R                      R   L 36S 09/25/13
+
+          Exp 38: CSA: Marius Ochisor; ESA: Gerhard Gritner; JAXA: Kazuharu Nara; NASA: Michelle Banks; Russia: Pavel Rudnev TEMPLATES AGREED TO THROUGH JANUARY 31, 2013
+                                          2012                                       2013                                                 2013                                                                                              2013                                           2014
+                                November       December        January '13  February     March           April           May       June         July       August       September                                                 October           November          December          January '14
+                              5   12 19 26   3   10 17 24 31    7 14   21 28   4   11 18 25   4   11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 22 29     5   12 19 26    2     9   16 23 30        7    14 21 28     4    11 18 25     2    9    16 23 30    6    13 20 27
+          Tu (37S)            R   R E   R R R R R           V   V R V     R R R       J R A       A A E      R   R   R R R R R R 35S V              R R R A        A A R R R R R R A                      A    R R R R R R R R R R                             L 37S 11/25/13
+          Mt (37S)            A   A V   E R R R V           V   A A A     R R R       J A A       A A A      V   E   R R R R R R 35S V              V A A A        A A A R R R R R A                      A    A A A/V E R R R R R R                           L 37S 11/25/13
+          Wk (37S)            A   A V   A R R R V           V   A A A     R R R       J H/J A     V A A      A   E   V R R R R R 35S V              V A A A        A A H J J R R R A                      A    A A A E V R R R R R                             L 37S 11/25/13
+
+          Exp 39: CSA: Marius Ochisor; ESA: Norbert Illmer; JAXA: Kazuharu Nara; NASA: Natasha Niemann; Russia: Igor Koreshev TEMPLATES AGREED TO THROUGH JANUARY 31, 2013
+                                          2012                                        2013                                                 2013                                                                                             2013                                                                        2014
+                                November       December        January '13  February       March         April           May        June         July       August       September                                                October           November          December          January '14         February               March           April
+                              5   12 19 26   3   10 17 24 31    7 14   21 28   4   11 18 25   4   11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 22 29     5   12 19 26    2     9   16 23 30        7    14 21 28     4    11 18 25     2    9    16 23 30    6    13 20 27   3    10 17 24    3     10 17 24 31     7   14 21 28
+          Skv (38S)           R   R R R E        E R R      V   V   R R R R R V V V V                R E R       R   A   A   A   R R V      V   R R R R R R A A                R R R R R R R                   R 36S V        R A     A     A   R R R R R R R R R R A A                            R R R R R R R R R                        L 38S 3/31/14 TBD
+          Art (38S)           R   R R R E        R R R      V   V   R R R A A V V V V                R R R       R   A   A   A   R R V      V   J R R R R R A A                R R R R R R R                   R 36S V        R A     A     A   R R R R R R R R R R A A                            R R R R R R R R R                        L 38S 3/31/14 TBD
+          Sw (38S)            R   R V A A        A A V      V   E   R R R A A A/V V/A A A            J J R       R   A   A   A   A A A      J   J R R R R A A A                A E E R R R R                   R 36S V        V A     A     A   A A J J R R R V V A A A                            A A A/V E R R R R R                      L 38S 3/31/14 TBD
+
+          Exp 40: CSA: Marius Ochisor; ESA: Norbert Illmer; JAXA: Kazuharu Nara; NASA: Natasha Niemann; Russia: Evgeny Andreev TEMPLATES AGREED TO THROUGH JANUARY 31, 2013
+                                          2012                                        2013                                                2013                                                                                              2013                                                                        2014                                                 2014
+                                November       December        January '13  February       March         April          May        June         July       August       September                                                 October           November          December          January '14         February               March           April          May                   June
+                              5   12 19 26   3   10 17 24 31    7 14   21 28   4   11 18 25   4   11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 22 29     5   12 19 26    2     9   16 23 30        7    14 21 28     4    11 18 25     2    9    16 23 30    6    13 20 27   3    10 17 24    3     10 17 24 31     7   14 21 28   5   12 19 26    2     9    16 23 30
+          Sur (39S)           R   R R R R R R R V V R R R R E                         R R R V        V   R R     R   R R R R A          A   V   V   R R R R R R A              A    R R R R A             A    A   R R R R R R R R R 37S V                            V R R V          V A A R R R R R A                       A A      R R R R R R R R R L 39S 5/28/14 TBD
+          Ws (39S)            A   A V A A A/V A/V V V/A A R R R R E                   A A A V        A   A R     R   R R A A A          A   A   J   R R R V A A A              E    R R R R A             A    A   A A/V E R R R R R R 37S A                          A A V V          A A A R R R R R A                       A A      A A E R R R R R R L 39S 5/28/14 TBD
+          Ge (39S)            A   A A A R R E V V H R R R H V                         A A A V        J   J R     R   R H E A A          A   A   E   E V V H A A A              J    J R R R A             A    A   A R R E R R R R R 37S A                            A E V V          A A A R R R R/E J J                     A A      A A E R R R R R R L 39S 5/28/14 TBD
+
+          Exp 41: CSA: Marius Ochisor; ESA: Luca Anniciello; JAXA: Kazuharu Nara; NASA: Alicia Simpson; Russia: Alexei Kirillov TEMPLATES AGREED TO THROUGH JANUARY 31, 2013
+                                          2012                                       2013                                                     2013                                                                                          2013                                                                        2014                                                                   2014                                              2014
+                                November       December        January '13  February      March           April            May         June         July       August       September                                             October           November          December          January '14         February               March           April          May                   June              July           August         September     October
+                              5   12 19 26   3   10 17 24 31    7 14   21 28   4   11 18 25   4   11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 22 29     5   12 19 26    2     9   16 23 30        7    14 21 28     4    11 18 25     2    9    16 23 30    6    13 20 27   3    10 17 24    3     10 17 24 31     7   14 21 28   5   12 19 26    2     9    16 23 30     7   14 21 28   4   11 18 25   1   8   15 22 29   6   13 20     27
+          Sam (40S)           R   R R R R R R R             V   V   R R R R R R R R R R R R                      R   R R R R R V            V   V   V   R R R R R R R A                 A A     R R R          R R R R R R R A A                          E   R R R R R V              V A      A R R R R R R R R R 38S V                          V   R R R A A R R R R R R R A A A R R R R R R R R L 40S 9/30/14 TBD
+          Ser (40S)           R   R R R R R R R             V   V   R R R R R R R R R R R R                      R   R R R R R V            V   V   V   R R R R R R R A                 A A     A A R          R R R R R A A A A                          E   R R R R J V              V A      A R R R R R R R R R 38S V                          V   R R R A A R R R R R R R A A A R R R R R R R R L 40S 9/30/14 TBD
+          Wr (40S)            A   A A A A A A V             V   A   V R R R R A A A V A R R                      R   E A A A A A            A   A   J   J R R R V V A A                 A A     A E E          R R R A A A A A A                          J   J R R R V V              A A      A A A V E R R R R R 38S V                          V   A A A A A J J R R R V V A A A A A E R R R R R L 40S 9/30/14 TBD
+
+          Exp 42: CSA: Marius Ochisor; ESA: Luca Anniciello; JAXA: Kazuharu Nara; NASA: Alicia Simpson; Russia: Pavel Rudnev TEMPLATES AGREED TO THROUGH JANUARY 31, 2013
+                                                                                     2013                                                  2013                                                                                             2013                                                                        2014                                                                   2014                                                                  2014
+                                November       December        January '13  February      March           April          May        June         July       August        September                                               October           November          December          January '14         February               March           April          May                   June              July           August         September          October          November         December
+                              5   12 19 26   3   10 17 24 31    7 14   21 28   4   11 18 25   4   11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 22 29     5   12 19 26    2     9   16 23 30        7    14 21 28     4    11 18 25     2    9    16 23 30    6    13 20 27   3    10 17 24    3     10 17 24 31     7   14 21 28   5   12 19 26    2     9    16 23 30     7   14 21 28   4   11 18 25   1   8   15 22 29   6   13 20     27   3   10 17 24   1   8   15 22 29
+          TBD (41S)           R   R R R R R R R             V   V R R R R R R R R R R R R                        R   R R R R R R R R R R R R R R R R A                                  A   A   A   A R        R R R R R R R R R R R A                                A     A   R V    V J      R R R R R E              A     A    A   R R R R R R R R R 39S V                     V R R R A A A R R R R R R R A A R R R R                                          R    R R R R L 41S 12/01/14 TBD
+          Ct (41S)            A   A A H H H H V             V   A A H H H H H H H E R R R                        R   R H E A A A H H H H R H R R R H A                                  A   A   E   H H        E R R R R R A A A H E A                                A     A   V V    H E      R R R R R J              J     A    A   A E R R R R R R R 39S V                     V E A A A A A R R R J J H A A A A/H E R R                                        R    R R R R L 41S 12/01/14 TBD
+          Vr (41S)            A   A A A A A A V             V   A A R R R A A A A V R R A                        A   A A A A A A A A J J R R R R A A A                                  A   A   A   A A        A E R R R R A A A A A A                                A     A   V V    A A      A R R R R J              J     V    A   A A A E R R R R R 39S V                     V A A A A A A R R R J J A A A A A E V V                                          R    R R R R L 41S 12/01/14 TBD
+
+          Exp 43: CSA: Marius Ochisor; ESA: Ruediger Seine; JAXA: Kazuharu Nara; NASA: Jennifer James; Russia: Igor Koreshev TEMPLATES AGREED TO THROUGH JANUARY 31, 2013
+                                          2012                                      2013                                                  2013                                                                                              2013                                                                        2014                                                                   2014                                                                  2014                                                                   2015
+                                November       December       January '13  February      March           April           May        June        July        August      September                                                 October           November          December          January '14         February               March           April          May                   June              July           August         September          October          November         December       January '15        February            March              April
+                              5   12 19 26   3   10 17 24 31    7 14   21 28   4   11 18 25   4   11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 22 29     5   12 19 26    2     9   16 23 30        7    14 21 28     4    11 18 25     2    9    16 23 30    6    13 20 27   3    10 17 24    3     10 17 24 31     7   14 21 28   5   12 19 26    2     9    16 23 30     7   14 21 28   4   11 18 25   1   8   15 22 29   6   13 20     27   3   10 17 24   1   8   15 22 29   5   12 19 26   2    9   16 23    2     9   16 23 30   6   13 20 27
+          TBD RUS (42S)                                     V   V   R R R R R R R R R R R R                      R   R R R R R R R R R R R R R R R R R R R R R R                                               R R R R R R R A A A R R R R R V                                         V     R R R R R R E               R V V          A A A      R R R R R R R R J R A A A R R R R R R R R R R R 40S V A A                                                         A    R R R R R R R R V V A A R R R R R R R R R L 42S 03/30/2015 TBD
+          TBD-1 year RUS                                    V   V   R R R R R R R R R R R R                      R   R R R R R R R R R R R R R R R R R R R R R R                                               R R R R R R R R A A R R R R R V                                         V     R R R R R R E               R V V          R A A      R R R R R R R R J R A A A R R R R R R R R R R R 40S V A A                                                         A    R R R R R R R R V V A A R R R R R R R R R L 42S 03/30/2015 TBD
+          Ks - 1 year (42S)                                               A A A A A V A A A                      A   A A A A A A R R R R R V A A A A A A A A R R                                               R R A A A A R R R R V A A A V V                                         A     A R R R E A A               A A V          A A A      A E R R R R J J A A A A A A V A A E E R R R R R 40S A A A                                                         A    R R R V A J J V V A A A A A A E R R R R R L 42S 03/30/2015 TBD
+
+          Exp 44: CSA: Marius Ochisor; ESA: Ruediger Seine; JAXA: Kazuharu Nara; NASA: Dale Williamson; Russia: Igor Koreshev               TEMPLATES AGREED TO THROUGH JANUARY 31, 2013
+                                          2012                                      2013                                                                2013                                                                                2013                                                                        2014                                                                   2014                                                                  2014                                                                   2015                                                2015
+                                November       December        January     February      March           April           May                     June        July        August      September                                    October           November          December          January '14         February               March           April          May                   June              July           August         September          October          November         December       January '15        February            March              April          May                   June
+                              5   12 19 26   3   10 17 24 31    7 14   21 28   4   11 18 25   4   11 18 25   1   8   15 22 29    6   13 20 27   3   10 17 24   1   8   15 22 29     5   12 19 26    2     9   16 23 30        7    14 21 28     4    11 18 25     2    9    16 23 30    6    13 20 27   3    10 17 24    3     10 17 24 31     7   14 21 28   5   12 19 26    2     9    16 23 30     7   14 21 28   4   11 18 25   1   8   15 22 29   6   13 20     27   3   10 17 24   1   8   15 22 29   5   12 19 26   2    9   16 23    2     9   16 23 30   6   13 20 27   4   11 18 25    1     8    15 22 29
+          TBD (43S)                                         V   V   R R R R R R R R R R R R                      R   R R R R R R R R R R R R R R R R R R R R R R                                               R R R R R R R R R R R R R R R V                                         V     R R R R R R A               A     A    A   A   R R R R R E R R R R J R A A A R R R R R R R A A A R R R R R                                                              R    R R R R 41S R R R V V R A A A R R R R A A R R R R R R R R R L 43S 05/30/2015 TBD
+          Yui (43S)                          A A    A   V   V   A   A A A A R R R R V A A R                      R   R R A A A A A R R R R R H V A A A V R R R R                                               H A A A R R R R R A H A A A V V                                         A     R R R R R H J               J     V    A   A   A A A A A E E R R R V A A A A E R R R R J J/H A A A A E R R R                                                            R    R R R R 41S A A V V J J H A A R R R R A A A A E R R R R R R L 43S 05/30/2015 TBD
+          Lg (43S)                           A A    A   V   V   A   A A A A A A A A V A A R                      R   R R A A A A A A R R R R A V V A A A A A A A                                               A A A A A R R R R A V A A A V V                                         A     A R R R R A A               A     V    A   A   A A A A A E A A R R J A A A A A R R R R A A A A A A A A V E                                                              R    R R R R 41S A A V V A A A A A R R R A A A A A V E R R R R R L 43S 05/30/2015 TBD
+
+
+
+
+Space Training Team                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Slide 64
+ Challenges of ISS Training – Soyuz 56 Launch Abort
+
+ • Fewer crew members on ISS
+      ‒ Reduced capabilities on-board
+      ‒ Need to update task priorities
+ • Advanced launch of Soyuz 57 (2 weeks)
+ • Potential changes to later crew
+   compositions
+
+
+
+
+Space Training Team                                   Slide 65
+                   Trainingof–ISS-Training
+               Challenges
+ Challenges of ISS             New US Crew Vehicles
+                                    new US Crew Vehicles
+ •    Boeing CST-100
+      ‒     4 person (capacity 7)
+      ‒     Launch from Cape Canaveral
+      ‒     Landing in Western USA
+
+ •    SpaceX Crew Dragon
+      ‒     4 person (capacity 7)
+      ‒     Launch from Cape Canaveral
+      ‒     Sea landing off Cape Canaveral
+
+ •    Flexible launch sequence
+ •    Boeing vehicle still in certification process
+
+Space Training Team                                        Slide 66
+ Challenges of ISS Training – New US Crew Vehicles
+
+
+
+
+Space Training Team                                  Slide 67
+Dr Rüdiger Seine                    ruediger.seine@esa.int
+Lead, Space Training Team, HRE-OT
+
